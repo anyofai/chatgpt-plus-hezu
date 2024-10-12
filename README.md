@@ -1,5 +1,7 @@
 # ChatGPT Plus会员帐号合租共享拼车购买教程（每月仅29元）
 
+<p align="center">最近更新于：2024年10月12日</p>
+
 ![ChatGPT Plus会员帐号合租共享拼车购买教程](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 由于OpenAI暂未向中国大陆用户开放，大陆用户无法直接访问ChatGPT官网，也无法注册ChatGPT账号或订阅ChatGPT Plus会员。因此，要使用ChatGPT Plus，中国用户首先需要解决“科学上网”的问题。此外，ChatGPT Plus会员的月费为20美元，这对部分用户来说可能是一笔不小的开支。
