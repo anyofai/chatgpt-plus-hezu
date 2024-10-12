@@ -262,4 +262,4 @@ ChatGPT-4合租账号在功能可用性方面也有所限制。多个用户同�
 
 * <a href="https://github.com/anyofai/anyofai.github.io">2024年最新ChatGPT Plus订阅升级教程</a>：国内如何使用支付宝购买开通ChatGPT Plus会员！本文将会手把手地教大家如何在中国大陆使用支付宝订阅升级ChatGPT Plus会员，而且本教程亲测真实有效，我们已经稳定使用ChatGPT Plus一年多，没有遇到任何问题。
 
-* <a href="https://github.com/anyofai/claude-pro">国内开通购买Claude Pro帐号教程，如何使用支付宝充值订阅Claude Pro会员</a>:本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。
+* <a href="https://github.com/anyofai/claude-pro">国内开通购买Claude Pro帐号教程，如何使用支付宝充值订阅Claude Pro会员</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。
