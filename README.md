@@ -1,8 +1,8 @@
-# 最新ChatGPT Plus购买教程：国内如何使用支付宝购买ChatGPT Plus合租帐号？（每月仅29元）
+# 最新ChatGPT Plus购买教程：国内如何使用支付宝购买ChatGPT Plus合租共享帐号？（每月仅29元）
 
 <p align="center">最近更新于：2024年10月18日</p>
 
-![ChatGPT Plus会员帐号合租共享拼车购买教程](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus购买教程：国内如何使用支付宝购买ChatGPT Plus合租共享帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 由于OpenAI暂未向中国大陆用户开放，大陆用户无法直接访问ChatGPT官网，也无法注册ChatGPT账号或订阅ChatGPT Plus会员。因此，要使用ChatGPT Plus，中国用户首先需要解决“科学上网”的问题。此外，ChatGPT Plus会员的月费为20美元，这对部分用户来说可能是一笔不小的开支。
 
@@ -18,7 +18,7 @@
 
 总体而言，银河录像局使用起来非常方便，平台直接提供账号，省去了注册ChatGPT账号和购买ChatGPT Plus会员的繁琐步骤。此外，相比ChatGPT官网每月20美元（约140元人民币）的费用，通过银河录像局合租共享ChatGPT Plus账号，每月仅需29元人民币，大大降低了使用成本。
 
-## 购买ChatGPT Plus合租账号的操作步骤
+## 支付宝购买ChatGPT Plus合租共享账号的操作步骤
 
 接下来，我们将手把手教大家如何通过银河录像局购买ChatGPT Plus共享账号。采用这种方法，不仅无需担心科学上网的问题，直接在国内连接使用，而且价格十分实惠，性价比高。
 
