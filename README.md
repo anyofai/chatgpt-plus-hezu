@@ -26,47 +26,47 @@
 
 * 银河录像局官网地址：https://nf.video/BTgSc
 
-![ChatGPT Plus帐号合租教程步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-1.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-1.png)
 
 ### 2，使用手机号码登录或通过微信扫码登录。
 
-![ChatGPT Plus帐号共享教程-步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-2.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-2.png)
 
 ### 3，在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”。
 
-![ChatGPT Plus会员合租教程步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E4%BC%9A%E5%91%98%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-3.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E4%BC%9A%E5%91%98%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-3.png)
 
 ### 4，选择合适的套餐，并点击“支付宝支付”按钮。
 
-![ChatGPT Plus会员共享教程步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E4%BC%9A%E5%91%98%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-4.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E4%BC%9A%E5%91%98%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-4.png)
 
 注意：国内镜像直连版本分为三个档位：基础版每月29元，每6小时可对话20次；标准版每月45元，每6小时可对话50次；专业版每月99元，每3小时可对话60次。
 
 ### 5，输入优惠码“anyofai”，然后点击“确认”。
 
-![ChatGPT-4帐号合租教程步骤五：输入优惠码“anyofai”，然后点击“确认”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-5.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤五：输入优惠码“anyofai”，然后点击“确认”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-5.png)
 
 ### 6，核对套餐信息，确认无误后点击“支付宝支付”。
 
-![ChatGPT-4帐号共享教程步骤六：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-6.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤六：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-6.png)
 
 ### 7，付款成功后，点击“查看车票信息”。
 
-![ChatGPT Plus帐号购买教程步骤七：付款成功后，点击“查看车票信息”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-7.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤七：付款成功后，点击“查看车票信息”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-7.png)
 
 提示：你也可以通过银河录像局官网顶部的“车票”导航栏查看车票信息。
 
 ### 8，点击“查看车队”按钮。
 
-![ChatGPT Plus购买教程步骤八：点击“查看车队”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-8.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤八：点击“查看车队”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-8.png)
 
 ### 9，选择一个车队并点击“发起对话”。
 
-![ChatGPT Plus拼车教程步骤九：选择一个车队并点击“发起对话”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E6%8B%BC%E8%BD%A6%E6%95%99%E7%A8%8B-9.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤九：选择一个车队并点击“发起对话”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E6%8B%BC%E8%BD%A6%E6%95%99%E7%A8%8B-9.png)
 
 ### 10，开始正式使用ChatGPT Plus。
 
-![ChatGPT帐号合租教程步骤十：开始正式使用ChatGPT Plus](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-10.png)
+![支付宝购买ChatGPT Plus合租共享账号的操作步骤十：开始正式使用ChatGPT Plus](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-10.png)
 
 OK，以上就是通过银河录像局购买ChatGPT Plus合租账号的全部步骤！这种方式无需魔法上网，国内网络即可直接访问。如果想要在手机或平板上使用，只需在设备上打开银河录像局官网，按上述步骤操作即可。赶快来试试吧！
 
