@@ -6,7 +6,12 @@
 
 由于OpenAI暂未向中国大陆用户开放，大陆用户无法直接访问ChatGPT官网，也无法注册ChatGPT账号或订阅ChatGPT Plus会员。因此，要使用ChatGPT Plus，中国用户首先需要解决“科学上网”的问题。此外，ChatGPT Plus会员的月费为20美元，这对部分用户来说可能是一笔不小的开支。如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑合租ChatGPT Plus会员。所谓合租，即多个用户共同使用同一个ChatGPT Plus账号，并分摊会员费用。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
-注意：在购买ChatGPT Plus共享账号时，需要特别注意隐私问题。由于多个用户共同使用同一个账号，生成的内容可能会被其他合租用户查看到，因此这种方式不适合处理敏感信息或有高隐私需求的情况。ChatGPT Plus合租共享更适用于日常学习、练习或非商业用途。如果计划将ChatGPT用于商业项目或需要处理敏感数据，建议注册一个独立的ChatGPT账号，并单独订阅ChatGPT Plus会员，以确保数据安全和隐私得到充分保护。如果你打算自行注册ChatGPT账号并订阅ChatGPT Plus会员，可以参考“<a href="https://github.com/anyofai/anyofai.github.io">2024年国内使用支付宝开通ChatGPT Plus会员教程</a>”，了解详细的操作步骤。
+<blockquote>
+
+* 我们需要提醒大家的是，在购买ChatGPT Plus共享账号时，需要特别注意隐私问题。由于多个用户共同使用同一个账号，生成的内容可能会被其他合租用户查看到，因此这种方式不适合处理敏感信息或有高隐私需求的情况。ChatGPT Plus合租共享更适用于日常学习、练习或非商业用途。如果你计划将ChatGPT用于商业项目或需要处理敏感数据，建议注册一个独立的ChatGPT账号，并单独订阅ChatGPT Plus会员，以确保数据安全和隐私得到充分保护。更多详情请查看：“<a href="https://github.com/anyofai/anyofai.github.io">2024年国内使用支付宝开通ChatGPT Plus会员教程</a>”。
+* 如果你不想自己订阅ChatGPT Plus会员，又怕使用ChatGPT Plus合租账号会泄漏隐私，那么你也可以尝试：<a href=https://github.com/anyofai/chatgpt-plus-recharge>国内ChatGPT Plus代充值</a>。
+
+</blockquote>
 
 ## 2024年靠谱的ChatGPT Plus帐号合租共享平台推荐
 
