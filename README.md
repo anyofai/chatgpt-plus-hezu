@@ -8,7 +8,7 @@
 
 <blockquote>
 
-* 我们需要提醒大家的是，在购买ChatGPT Plus共享账号时，需要特别注意隐私问题。由于多个用户共同使用同一个账号，生成的内容可能会被其他合租用户查看到，因此这种方式不适合处理敏感信息或有高隐私需求的情况。ChatGPT Plus合租共享更适用于日常学习、练习或非商业用途。如果你计划将ChatGPT用于商业项目或需要处理敏感数据，建议注册一个独立的ChatGPT账号，并单独订阅ChatGPT Plus会员，以确保数据安全和隐私得到充分保护。更多详情请查看：“<a href="https://github.com/anyofai/anyofai.github.io">2024年国内使用支付宝开通ChatGPT Plus会员教程</a>”。
+* 我们需要提醒大家的是，在购买ChatGPT Plus共享账号时，需要特别注意隐私问题。由于多个用户共同使用同一个账号，生成的内容可能会被其他合租用户查看到，因此这种方式不适合处理敏感信息或有高隐私需求的情况。ChatGPT Plus合租共享更适用于日常学习、练习或非商业用途。如果你计划将ChatGPT用于商业项目或需要处理敏感数据，建议注册一个独立的ChatGPT账号，并单独订阅ChatGPT Plus会员，以确保数据安全和隐私得到充分保护。更多详情请查看：“<a href="https://github.com/anyofai/anyofai.github.io">2024年国内支付宝开通ChatGPT Plus教程</a>”。
 * 如果你不想自己订阅ChatGPT Plus会员，又怕使用ChatGPT Plus合租账号会泄漏隐私，那么你也可以尝试：<a href=https://github.com/anyofai/chatgpt-plus-recharge>国内ChatGPT Plus代充值</a>。
 
 </blockquote>
