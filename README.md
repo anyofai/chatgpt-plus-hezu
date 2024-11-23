@@ -132,7 +132,7 @@ OK，以上就是通过银河录像局购买ChatGPT Plus合租账号的全部步
 
 ### 方法二：使用星际放映厅的ChatGPT Plus代充值服务
 
-许多中国用户由于没有国外信用卡，或在支付时遇到信用卡被拒的情况，导致无法完成ChatGPT Plus的订阅。这时，通过星际放映厅的代充值服务，用户无需处理复杂的支付流程，由平台全程代为完成。该服务的优势在于简化支付步骤，有效解决了用户因缺少信用卡或支付受阻而无法订阅ChatGPT Plus的问题。更多详情请查看：<a href=https://github.com/anyofai/chatgpt-plus-recharge>ChatGPT Plus代充值</a>。
+许多中国用户由于没有国外信用卡，或在支付时遇到信用卡被拒的情况，导致无法完成ChatGPT Plus的订阅。这时，通过星际放映厅的代充值服务，用户无需处理复杂的支付流程，由平台全程代为完成。该服务的优势在于简化支付步骤，有效解决了用户因缺少信用卡或支付受阻而无法订阅ChatGPT Plus的问题。更多详情：<a href=https://github.com/anyofai/chatgpt-plus-recharge>ChatGPT Plus代充值</a>。
 
 ### 方法三：使用苹果礼品卡充值ChatGPT Plus会员
 
