@@ -102,7 +102,7 @@ OK，以上就是通过银河录像局购买ChatGPT Plus合租账号的全部步
 
 使用环球巴士合租ChatGPT-4帐号的操作步骤如下：打开环球巴士官网，点击“合租”按钮，点击“AIGC”按钮，选择“ChatGPT镜像版”，点击“购票上车”按钮，选择“时长”和“分类”，并点击“立即购买”按钮。接下来，按照环球巴士的系统提示完成后续操作即可。
 
-环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
+* 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 
 ![环球巴士官网：国内ChatGPT-4合租平台备选](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
 
@@ -112,7 +112,7 @@ OK，以上就是通过银河录像局购买ChatGPT Plus合租账号的全部步
 
 使用星际放映厅合租ChatGPT-4帐号的操作步骤如下：打开星际放映厅官网，点击“AI工具箱”按钮，选择“ChatGPT Plus”，然后选择“共享帐号”，输入优惠码“ANYOFAI”（可享九折优惠），点击“支付订单”按钮。接下来，按照星际放映厅系统提示完成后续操作即可。
 
-星际放映厅官网：<a href="https://naifeistation.com?invite=3235">https://www.naifeistation.com/?invite=3235</a>
+* 星际放映厅官网：<a href="https://naifeistation.com?invite=3235">https://www.naifeistation.com/?invite=3235</a>
 
 ![星际放映厅官网：国内ChatGPT-4合租平台替补](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%E5%90%88%E7%A7%9F.png)
 
