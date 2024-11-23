@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus购买教程：国内如何使用支付宝拼车购买ChatGPT Plus合租共享帐号？（每月仅29元）
 
-<p align="center">最近更新于：2024年10月22日</p>
+<p align="center">最近更新于：2024年11月23日</p>
 
 ![最新ChatGPT Plus购买教程：国内如何使用支付宝购买ChatGPT Plus合租共享帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
