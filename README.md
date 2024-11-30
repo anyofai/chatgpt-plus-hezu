@@ -272,7 +272,7 @@ ChatGPT-4合租账号在功能可用性方面也有所限制。多个用户同�
 
 在国内，合租共享ChatGPT Plus账号是一种经济实惠的选择，特别适合预算有限或只需偶尔使用ChatGPT Plus的用户。通过这种方式，用户不仅可以使用ChatGPT Plus的服务，还能大大降低费用支出。而且，国内的ChatGPT Plus合租平台都支持支付宝、微信等付款方式，购买操作非常方便。
 
-查看更多：<a href="https://github.com/anyofai/chatgpt-plus-hezu?tab=readme-ov-file#%E6%94%AF%E4%BB%98%E5%AE%9D%E8%B4%AD%E4%B9%B0chatgpt-plus%E5%90%88%E7%A7%9F%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4">立即获取ChatGPT Plus合租帐号</a>
+查看更多：<a href="https://github.com/anyofai/chatgpt-plus-hezu?tab=readme-ov-file#%E5%9B%BD%E5%86%85%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4">立即获取ChatGPT Plus合租帐号</a>
 
 需要提醒大家的是，ChatGPT-4合租账号也存在一定的局限性，例如高峰期可能出现响应速度变慢、隐私保护不足等问题。此外，ChatGPT-4合租用户必须遵守平台规则，合理安排使用时间，避免与其他用户发生冲突。同时，大家需要注意保护个人数据隐私，防止敏感信息被其他合租者获取。
 
