@@ -8,7 +8,7 @@
 
 <blockquote>
 
-我们需要提醒大家的是，在购买ChatGPT Plus共享账号时，需要特别注意隐私问题。由于多个用户共同使用同一个账号，生成的内容可能会被其他合租用户查看到，因此这种方式不适合处理敏感信息或有高隐私需求的情况。ChatGPT Plus合租共享更适用于日常学习、练习或非商业用途。如果你计划将ChatGPT用于商业项目或需要处理敏感数据，建议注册一个独立的ChatGPT账号，并单独订阅ChatGPT Plus会员，以确保数据安全和隐私得到充分保护。更多详情请查看：“<a href="https://github.com/anyofai/anyofai.github.io">国内开通ChatGPT Plus教程</a>”。
+我们需要提醒大家的是，在购买ChatGPT Plus共享账号时，需要特别注意隐私问题。由于多个用户共同使用同一个账号，生成的内容可能会被其他合租用户查看到，因此这种方式不适合处理敏感信息或有高隐私需求的情况。ChatGPT Plus合租共享更适用于日常学习、练习或非商业用途。如果你计划将ChatGPT用于商业项目或需要处理敏感数据，建议注册一个独立的ChatGPT账号，并单独订阅ChatGPT Plus会员，以确保数据安全和隐私得到充分保护。更多详情请查看：“<a href="https://github.com/anyofai/anyofai.github.io">国内ChatGPT Plus开通教程</a>”。
 
 </blockquote>
 
@@ -126,7 +126,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ### 方法一：使用WildCard虚拟信用卡来开通ChatGPT Plus会员 
 
-使用WildCard虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方式。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面表现出色。更多详情请查看：<a href=https://github.com/anyofai/anyofai.github.io>开通ChatGPT Plus教程</a>。
+使用WildCard虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方式。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面表现出色。更多详情请查看：<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus购买</a>。
 
 * WildCard虚拟信用卡官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
