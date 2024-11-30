@@ -272,13 +272,13 @@ ChatGPT-4合租账号在功能可用性方面也有所限制。多个用户同�
 
 在国内，合租共享ChatGPT Plus账号是一种经济实惠的选择，特别适合预算有限或只需偶尔使用ChatGPT Plus的用户。通过这种方式，用户不仅可以使用ChatGPT Plus的服务，还能大大降低费用支出。而且，国内的ChatGPT Plus合租平台都支持支付宝、微信等付款方式，购买操作非常方便。
 
-查看更多：<a href="https://github.com/anyofai/chatgpt-plus-hezu?tab=readme-ov-file#%E5%9B%BD%E5%86%85%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4">立即获取ChatGPT Plus合租帐号</a>
+* 查看更多：<a href="https://github.com/anyofai/chatgpt-plus-hezu?tab=readme-ov-file#%E5%9B%BD%E5%86%85%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4">立即获取ChatGPT Plus合租帐号</a>
 
 需要提醒大家的是，ChatGPT-4合租账号也存在一定的局限性，例如高峰期可能出现响应速度变慢、隐私保护不足等问题。此外，ChatGPT-4合租用户必须遵守平台规则，合理安排使用时间，避免与其他用户发生冲突。同时，大家需要注意保护个人数据隐私，防止敏感信息被其他合租者获取。
 
 如果你对隐私要求较高，或计划将ChatGPT Plus用于商业用途，我们建议你直接使用WildCard虚拟信用卡订阅ChatGPT Plus账号。完成ChatGPT Plus订阅后，你可以独享一个ChatGPT Plus账号，不仅拥有更高的隐私保护，而且没有任何使用限制。
 
-查看更多：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>
+* 查看更多：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>
 
 总体而言，ChatGPT Plus合租共享账号适合对隐私要求不高、预算有限的用户，而ChatGPT Plus独立账号更适合对功能稳定性和隐私保护有较高需求的用户。根据你的实际需求，选择合适的方式能够帮助你更好地体验ChatGPT Plus的强大功能。
 
