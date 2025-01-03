@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车合租渠道推荐（每月仅29元）
 
-<p align="center">最近更新于：2024年12月10日</p>
+<p align="center">最近更新于：2025年1月3日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车合租渠道推荐](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
@@ -12,7 +12,7 @@
 
 </blockquote>
 
-## 2024年靠谱的ChatGPT Plus合租平台推荐
+## 2025年靠谱的ChatGPT Plus合租平台推荐
 
 自2022年11月底ChatGPT推出以来，在全球范围内引发了轰动，并在国内迅速走红。因此，国内涌现出大量ChatGPT Plus镜像站、共享合租平台和代充值服务。然而，其中大多数平台都存在问题，不值得尝试，例如只收钱不提供服务、提供的账号无法正常使用、账号使用几天后被封，甚至有泄露用户隐私和使用记录的风险。在尝试了多个ChatGPT Plus合租共享平台后，我们发现了一个相对可靠的平台：**<a href=https://nf.video/BTgSc>银河录像局</a>**。
 
