@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车合租渠道推荐（每月仅29元）
 
-<p align="center">最近更新于：2025年1月3日</p>
+<p align="center">最近更新于：2025年2月3日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车合租渠道推荐](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
@@ -122,13 +122,13 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ## 除了合租ChatGPT-4之外，还有哪些方式可以获得ChatGPT Plus账号？
 
-中国大陆用户若想获取ChatGPT Plus账号，除了采用合租共享的方式之外，还可以通过WildCard虚拟信用卡开通ChatGPT Plus会员，或通过专业的第三方平台代充值ChatGPT Plus，亦或使用苹果礼品卡为ChatGPT Plus充值。这些方式各有优势，大家可以根据自身需求进行选择。
+中国大陆用户若想获取ChatGPT Plus账号，除了采用合租共享的方式之外，还可以通过“野卡YEKA虚拟信用卡”（原WildCard升级版）开通ChatGPT Plus会员，或通过专业的第三方平台代充值ChatGPT Plus，亦或使用苹果礼品卡为ChatGPT Plus充值。这些方式各有优势，大家可以根据自身需求进行选择。
 
-### 方法一：使用WildCard虚拟信用卡来开通ChatGPT Plus会员 
+### 方法一：使用野卡虚拟信用卡来开通ChatGPT Plus会员 
 
-使用WildCard虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方式。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面表现出色。更多详情请查看：<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus购买</a>。
+使用野卡虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方式。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面表现出色。更多详情请查看：<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus购买</a>。
 
-* WildCard虚拟信用卡官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
+* 野卡虚拟信用卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ### 方法二：使用星际放映厅的ChatGPT Plus代充值服务
 
@@ -276,7 +276,7 @@ ChatGPT-4合租账号在功能可用性方面也有所限制。多个用户同�
 
 需要提醒大家的是，ChatGPT-4合租账号也存在一定的局限性，例如高峰期可能出现响应速度变慢、隐私保护不足等问题。此外，ChatGPT-4合租用户必须遵守平台规则，合理安排使用时间，避免与其他用户发生冲突。同时，大家需要注意保护个人数据隐私，防止敏感信息被其他合租者获取。
 
-如果你对隐私要求较高，或计划将ChatGPT Plus用于商业用途，我们建议你直接使用WildCard虚拟信用卡订阅ChatGPT Plus账号。完成ChatGPT Plus订阅后，你可以独享一个ChatGPT Plus账号，不仅拥有更高的隐私保护，而且没有任何使用限制。
+如果你对隐私要求较高，或计划将ChatGPT Plus用于商业用途，我们建议你直接使用野卡虚拟信用卡订阅ChatGPT Plus账号。完成ChatGPT Plus订阅后，你可以独享一个ChatGPT Plus账号，不仅拥有更高的隐私保护，而且没有任何使用限制。
 
 * 查看更多：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>
 
@@ -294,7 +294,7 @@ ChatGPT-4合租账号在功能可用性方面也有所限制。多个用户同�
 
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：本文推荐的Claude Pro代充服务采用的都是纯人工充值方式，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张WildCard虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张野卡虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
 
