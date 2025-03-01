@@ -88,7 +88,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 通过以上优势，银河录像局凭借其稳定、实惠和便捷的服务逐渐成为用户信赖的首选平台，为用户提供了高质量的合租体验。
 
-点击查看更多：<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>。
+点击查看更多：<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>。
 
 ## 除了银河录像局之外，还有哪些靠谱的ChatGPT-4合租平台？
 
