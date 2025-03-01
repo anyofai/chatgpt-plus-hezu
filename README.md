@@ -108,13 +108,13 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ![环球巴士官网：国内ChatGPT-4合租平台备选](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
 
-### 国内ChatGPT-4合租平台替补：<a href="https://naifeistation.com?invite=3235">星际放映厅</a>
+### 国内ChatGPT-4合租平台替补：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 星际放映厅也是一个专注于流媒体和AI工具合租的共享平台，提供包括ChatGPT Plus、Netflix、Disney+等服务。与“银河录像局”和“环球巴士”相比，星际放映厅同样非常安全可靠，但其ChatGPT-4合租价格略微偏高一些。
 
 使用星际放映厅合租ChatGPT-4帐号的操作步骤如下：打开星际放映厅官网，点击“AI工具箱”按钮，选择“ChatGPT Plus”，然后选择“共享帐号”，输入优惠码“ANYOFAI”（可享九折优惠），点击“支付订单”按钮。接下来，按照星际放映厅系统提示完成后续操作即可。
 
-* 星际放映厅官网：<a href="https://naifeistation.com?invite=3235">https://www.naifeistation.com/?invite=3235</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 
 ![星际放映厅官网：国内ChatGPT-4合租平台替补](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%E5%90%88%E7%A7%9F.png)
 
