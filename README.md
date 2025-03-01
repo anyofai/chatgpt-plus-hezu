@@ -76,7 +76,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ## 银河录像局怎么样？银河录像局靠谱吗？
 
-银河录像局作为一个专业的合租共享平台，主要提供包括<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、ChatGPT Plus合租、<a href="https://github.com/anyofai/youtube-premium">Youtube Premium合租</a>和Midjourney合租等在内的多种流媒体和AI工具的共享服务。这些服务覆盖广泛，满足了用户在娱乐、工作和学习等多个方面的需求，成为许多用户的理想选择。
+银河录像局作为一个专业的合租共享平台，主要提供包括Netflix、HBO Max、Prime Video、ChatGPT、Midjourney、Claude、Runway等在内的多种流媒体和AI工具的共享服务。这些服务覆盖广泛，满足了用户在娱乐、工作和学习等多个方面的需求，成为许多用户的理想选择。
 
 为了确保合法合规运营，银河录像局已通过中国工信部备案，这一举措提升了平台的可信度和安全性。用户可以放心使用，无需担心因法律问题导致平台中断或停止服务。
 
@@ -87,6 +87,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 在价格方面，银河录像局的收费透明，没有隐藏费用，且价格相对其他平台更加实惠。用户可以通过支付宝和Paypal等多种支付方式轻松完成支付，降低了使用门槛，让更多用户能够享受到优质的流媒体和AI工具服务。
 
 通过以上优势，银河录像局凭借其稳定、实惠和便捷的服务逐渐成为用户信赖的首选平台，为用户提供了高质量的合租体验。
+
+点击查看更多：<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>。
 
 ## 除了银河录像局之外，还有哪些靠谱的ChatGPT-4合租平台？
 
