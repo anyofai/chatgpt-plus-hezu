@@ -126,9 +126,11 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ### 方法一：使用野卡虚拟信用卡来开通ChatGPT Plus会员 
 
-使用野卡虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方式。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面表现出色。更多详情请查看：<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus购买</a>。
+使用野卡虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方式。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面表现出色。
 
 * 野卡虚拟信用卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
+
+如果你不知道如何获取野卡虚拟信用卡，或者不知道如何使用野卡虚拟信用卡来订阅ChatGPT Plus会员，可以查看《<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus购买</a>》一文。在这篇文章中，我们会手把手教大家如何仅靠一个+86手机号就能轻松获取一张野卡虚拟信用卡，以及如何使用该卡为ChatGPT Plus充值！此外，如果你想了解更多关于野卡虚拟信用卡的信息，请查看《<a href="https://anyofai.github.io/">野卡怎么样</a>》一文。
 
 ### 方法二：使用星际放映厅的ChatGPT Plus代充值服务
 
