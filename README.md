@@ -32,7 +32,7 @@
 
 ### 第三步：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”。
 
-![国内拼车合租ChatGPT Plus帐号操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E4%BC%9A%E5%91%98%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-3.png)
+![国内拼车合租ChatGPT Plus帐号操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-1.png)
 
 ### 第四步：选择合适的套餐，并点击“支付宝支付”按钮。
 
