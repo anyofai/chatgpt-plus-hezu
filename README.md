@@ -72,6 +72,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ## 银河录像局怎么样？银河录像局靠谱吗？
 
+![银河录像局怎么样？银河录像局靠谱吗](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-3.png)
+
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：**ANYOFAI**（可享九折优惠）
 * 银河录像局支付方式：支付宝
