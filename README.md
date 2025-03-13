@@ -1,4 +1,4 @@
-# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅29元)！还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！
+# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！
 
 <p align="center">最近更新于：2025年3月13日</p>
 
