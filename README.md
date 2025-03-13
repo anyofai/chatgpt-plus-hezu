@@ -97,31 +97,52 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 首先，我们最推荐的当然是“<a href="https://nf.video/BTgSc">银河录像局</a>”。它提供的服务比较全面，无论你的需求是什么，都能在“银河录像局”获得一站式解决方案。银河录像局操作起来比较简单，也非常的安全可靠，同时价格也十分实惠。
 
-当然，除了银河录像局之外，还有两个相对比较靠谱的ChatGPT-4合租平台，并且它们各有优势，大家可以根据自己的需求进行选择。以下是关于这两个ChatGPT-4合租平台的简介。
+当然，除了银河录像局之外，还有三个相对比较靠谱的ChatGPT-4合租平台，并且它们各有优势，大家可以根据自己的需求进行选择。以下是关于这三个ChatGPT-4合租平台的简介。
 
-### 国内ChatGPT-4合租平台备选：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+### 国内ChatGPT-4合租平台备选：<a href="https://yeka.ai/i/ANYOFAI">野卡随心用</a>
 
-环球巴士是另一个备受欢迎的ChatGPT-4合租平台，提供多种流媒体和AI工具的共享服务，包括ChatGPT Plus和Midjourney等。该平台操作简单，安全可靠，用户评价普遍较好，售后服务较为完善，能够保障账号的稳定性和良好的使用体验。
+* 野卡随心用官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
+* 野卡随心用优惠码：ANYOFAI（可立减一美金）
+* 野卡随心用支付方式：支付宝
+* ChatGPT Plus拼车价格：9.9美金/月
 
-使用环球巴士合租ChatGPT-4帐号的操作步骤如下：打开环球巴士官网，点击“合租”按钮，点击“AIGC”按钮，选择“ChatGPT镜像版”，点击“购票上车”按钮，选择“时长”和“分类”，并点击“立即购买”按钮。接下来，按照环球巴士的系统提示完成后续操作即可。
+野卡2233随心用为用户提供原生ChatGPT Plus和Claude Pro的镜像服务，让用户直接使用最新的ChatGPT-4.5和Claude 3.7 Sensor模型。每月只需9.99美元，比官方价格便宜一半！使用邀请码"ANYOFAI"还能再减1美元，超值体验触手可及。
 
-* 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
+使用野卡2233随心用非常简单，它支持支付宝付款，按月收费，支付后立即可用，无需复杂注册。通过野卡网站即可访问，手机浏览器也完全兼容，随时随地畅享AI服务。
 
-![环球巴士官网：国内ChatGPT-4合租平台备选](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
+最令人安心的是，你无需再担心网络限制或ChatGPT、Claude账号被封的风险。野卡2233随心用采用token额度计算使用量，支持文件上传和Artifacts功能，满足你的日常AI需求。
 
-### 国内ChatGPT-4合租平台替补：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+在隐私保护方面，野卡2233随心用为每位用户的对话记录提供独立存储，确保你的内容完全私密，不会泄露给他人。
 
-星际放映厅也是一个专注于流媒体和AI工具合租的共享平台，提供包括ChatGPT Plus、Netflix、Disney+等服务。与“银河录像局”和“环球巴士”相比，星际放映厅同样非常安全可靠，但其ChatGPT-4合租价格略微偏高一些。
-
-使用星际放映厅合租ChatGPT-4帐号的操作步骤如下：打开星际放映厅官网，点击“AI工具箱”按钮，选择“ChatGPT Plus”，然后选择“共享帐号”，输入优惠码“ANYOFAI”（可享九折优惠），点击“支付订单”按钮。接下来，按照星际放映厅系统提示完成后续操作即可。
-
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+### 国内ChatGPT-4合租平台备选：：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 ![星际放映厅官网：国内ChatGPT-4合租平台替补](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%E5%90%88%E7%A7%9F.png)
 
 ![星际放映厅官网：国内ChatGPT-4合租平台替补](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%20Plus%E5%90%88%E7%A7%9F.png)
 
-总的来说，这两个平台凭借稳定的服务、透明的收费体系和良好的用户评价，在ChatGPT-4合租领域脱颖而出，是值得选择的优质平台。如果你还在寻找更多合租平台，不妨关注环球巴士或星际放映厅。
+* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+* 星际放映厅优惠码：ANYOFAI（可享九折优惠）
+* 星际放映厅支付方式：支付宝
+* ChatGPT Plus拼车价格：50元/月
+
+星际放映厅成立于2023年，是一家专注于流媒体与AI工具合租的平台，已获得浙江省ICP备案认证。平台秉承"现号秒发、安全稳定、物美价廉"的服务理念，为用户提供包括ChatGPT Plus在内的多种数字服务合租选择。
+
+得益于完善的自动化系统，用户付款后可立即使用所购服务，无需等待人工处理。星际放映厅兼容多种设备，包括手机、平板、电脑和电视，同时提供全天候客服支持，确保用户遇到问题能及时获得解决方案。
+
+在支付方面，平台支持支付宝等常用支付方式，使用优惠码"ANYOFAI"还能享受九折优惠。对于希望体验ChatGPT Plus但不想支付全价的用户来说，星际放映厅提供了一个既经济又便捷的合租选择。
+
+### 国内ChatGPT-4合租平台备选：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+
+![环球巴士官网：国内ChatGPT-4合租平台备选](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
+
+* 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
+* 环球巴士优惠码：ANYOFAI（可享九折优惠）
+* 环球巴士支付方式：支付宝
+* ChatGPT Plus拼车价格：28.88元/月
+
+环球巴士由杭州十全信息科技有限公司运营，成立于2019年7月，前身为"奈飞站"。2023年2月进行重大改版后，环球巴士已发展成为一站式互联网服务合租平台，用户规模突破10万。平台业务范围广泛，涵盖Netflix、Disney+、Spotify等流媒体服务，以及ChatGPT Plus、Midjourney等AI工具合租，总计近20种优质服务。
+
+环球巴士采用自动化交付系统，用户付款后即可立即使用所购服务，无需等待人工处理。平台提供"翻车必赔"的安全担保，确保用户权益。在支付方面，环球巴士支持支付宝付款，简单便捷。作为行业内有影响力的平台，环球巴士在知乎、B站和抖音等社交媒体拥有广泛受众，全网粉丝据称超过200万，为用户提供稳定可靠的合租体验。
 
 ## 除了合租ChatGPT-4之外，还有哪些方式可以获得ChatGPT Plus账号？
 
