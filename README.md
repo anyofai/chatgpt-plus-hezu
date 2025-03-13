@@ -101,6 +101,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ### ChatGPT-4合租备选（一）：<a href="https://yeka.ai/i/ANYOFAI">野卡随心用</a>
 
+![ChatGPT-4合租备选（一）:野卡随心用](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-4.png)
+
 * 野卡随心用官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 * 野卡随心用优惠码：ANYOFAI（可立减一美金）
 * 野卡随心用支付方式：支付宝
@@ -113,6 +115,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 最令人安心的是，你无需再担心网络限制或ChatGPT、Claude账号被封的风险。野卡2233随心用采用token额度计算使用量，支持文件上传和Artifacts功能，满足你的日常AI需求。
 
 在隐私保护方面，野卡2233随心用为每位用户的对话记录提供独立存储，确保你的内容完全私密，不会泄露给他人。
+
+<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即获取野卡随心用</a></p>
 
 ### ChatGPT-4合租备选（二）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
