@@ -36,9 +36,9 @@
 
 ### 第四步：选择合适的套餐，并点击“支付宝支付”按钮。
 
-![国内拼车合租ChatGPT Plus帐号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
+注意：银河录像局提供的ChatGPT Plus国内镜像直连版本分为三个档位：基础版每月29元，每6小时可对话20次；标准版每月45元，每6小时可对话50次；专业版每月99元，每3小时可对话60次。此外，银河录像局提供的ChatGPT Plus镜像版还支持未降智的ChatGPT-4.5、满血版DeepSeek-R1、马斯克的Grok-3以及谷歌Gemini-2 Pro等顶尖大模型！
 
-注意：国内镜像直连版本分为三个档位：基础版每月29元，每6小时可对话20次；标准版每月45元，每6小时可对话50次；专业版每月99元，每3小时可对话60次。
+![国内拼车合租ChatGPT Plus帐号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
 
 ### 第五步：输入优惠码“anyofai”，然后点击“确认”。
 
