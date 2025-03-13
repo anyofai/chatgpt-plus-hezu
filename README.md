@@ -36,7 +36,7 @@
 
 ### 第四步：选择合适的套餐，并点击“支付宝支付”按钮。
 
-![国内拼车合租ChatGPT Plus帐号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E4%BC%9A%E5%91%98%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-4.png)
+![国内拼车合租ChatGPT Plus帐号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
 
 注意：国内镜像直连版本分为三个档位：基础版每月29元，每6小时可对话20次；标准版每月45元，每6小时可对话50次；专业版每月99元，每3小时可对话60次。
 
