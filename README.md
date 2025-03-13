@@ -114,7 +114,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 在隐私保护方面，野卡2233随心用为每位用户的对话记录提供独立存储，确保你的内容完全私密，不会泄露给他人。
 
-### 国内ChatGPT-4合租平台备选：：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+### 国内ChatGPT-4合租平台备选：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 ![星际放映厅官网：国内ChatGPT-4合租平台替补](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%E5%90%88%E7%A7%9F.png)
 
