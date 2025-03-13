@@ -116,7 +116,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 在隐私保护方面，野卡2233随心用为每位用户的对话记录提供独立存储，确保你的内容完全私密，不会泄露给他人。
 
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即获取野卡随心用</a></p>
+<p align="center"><a href="https://yeka.ai/i/ANYOFAI">访问野卡随心用官网</a></p>
 
 ### ChatGPT-4合租备选（二）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
@@ -135,6 +135,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 在支付方面，平台支持支付宝等常用支付方式，使用优惠码"ANYOFAI"还能享受九折优惠。对于希望体验ChatGPT Plus但不想支付全价的用户来说，星际放映厅提供了一个既经济又便捷的合租选择。
 
+<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">访问星际放映厅官网</a></p>
+
 ### ChatGPT-4合租备选（三）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 ![环球巴士官网：国内ChatGPT-4合租平台备选](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
@@ -147,6 +149,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 环球巴士由杭州十全信息科技有限公司运营，成立于2019年7月，前身为"奈飞站"。2023年2月进行重大改版后，环球巴士已发展成为一站式互联网服务合租平台，用户规模突破10万。平台业务范围广泛，涵盖Netflix、Disney+、Spotify等流媒体服务，以及ChatGPT Plus、Midjourney等AI工具合租，总计近20种优质服务。
 
 环球巴士采用自动化交付系统，用户付款后即可立即使用所购服务，无需等待人工处理。平台提供"翻车必赔"的安全担保，确保用户权益。在支付方面，环球巴士支持支付宝付款，简单便捷。作为行业内有影响力的平台，环球巴士在知乎、B站和抖音等社交媒体拥有广泛受众，全网粉丝据称超过200万，为用户提供稳定可靠的合租体验。
+
+<p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">访问环球巴士官网</a></p>
 
 ## 除了合租ChatGPT-4之外，还有哪些方式可以获得ChatGPT Plus账号？
 
