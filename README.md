@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！
 
-<p align="center">最近更新于：2025年3月13日</p>
+<p align="center">最近更新于：2025年3月25日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车合租渠道推荐](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
@@ -318,28 +318,8 @@ ChatGPT-4合租账号在功能可用性方面也有所限制。多个用户同�
 
 ## ChatGPT Plus会员共享合租相关的其他文章：
 
-* <a href="https://anyofai.github.io/">野卡怎么样</a>：本文将详细解答“野卡Yeka怎么样”、“野卡Yeka安全吗”等常见问题，并深入介绍野卡虚拟信用卡能用来干什么以及如何获取野卡虚拟信用卡。
-
-* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：本文将会手把手地教大家如何在中国大陆使用支付宝订阅ChatGPT Plus会员，而且本教程亲测真实有效，我们已经稳定使用ChatGPT Plus一年多，没有遇到任何问题。此外，ChatGPT Plus开通的整个流程也仅需十分钟！
-
-* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。本教程亲测真实有效，而且升级订阅Claude Pro的整个流程也仅需十多分钟！
-
-* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：最可靠的Claude Pro拼车购买渠道推荐！银河录像局不仅安全可靠，还提供24小时在线客服，价格非常亲民，Claude Pro共享帐号价格低至8元，大大降低了使用Claude Pro的门槛，让更多用户能够轻松体验这一强大的AI工具。
-
-* <a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>：最安全实惠的奈飞拼车购买平台推荐！我们还为大家解答购买奈飞共享帐号的常见问题！
-
-* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：2025年油管Youtube家庭会员拼车平台推荐！如何以每月12元的价格购买YouTube Premium无广告会员？
-
-* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：ChatGPT代充安全吗？安全稳定的ChatGPT 4代充值平台推荐！本文推荐的ChatGPT Plus代续费订阅服务稳定可靠，价格便宜，信誉有保障。
-
-* <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：本文推荐的Claude Pro代充服务采用的都是纯人工充值方式，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
-
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张野卡虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
-
-* <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
-
-* <a href="https://github.com/anyofai/x-twitter">Twitter X Premium订阅</a>：国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 3？以及国内如何白嫖Grok API每月150美元的免费额度？
-
-* <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
-
-* <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
+* <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>无需科学上网，免去注册和订阅Midjourney的繁琐流程，可享受Midjourney全部服务！每月仅需27元！
+* <a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
+* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
+* <a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
+* <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
