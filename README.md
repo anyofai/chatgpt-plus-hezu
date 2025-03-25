@@ -318,8 +318,9 @@ ChatGPT-4合租账号在功能可用性方面也有所限制。多个用户同�
 
 ## ChatGPT Plus会员共享合租相关的其他文章：
 
-* <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>无需科学上网，免去注册和订阅Midjourney的繁琐流程，可享受Midjourney全部服务！每月仅需27元！
-* <a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
-* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
-* <a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
-* <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：不仅可以享受ChatGPT Plus所有服务，还能使用DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：无需科学上网，免去注册和订阅Midjourney的繁琐流程，可享受Midjourney全部服务！每月仅需27元！
+* <a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
+* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
+* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
+* <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
