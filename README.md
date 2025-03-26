@@ -139,6 +139,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 <p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">访问星际放映厅官网</a></p>
 
+****
+
 ### ChatGPT-4合租备选（三）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 ![环球巴士官网：国内ChatGPT-4合租平台备选](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
