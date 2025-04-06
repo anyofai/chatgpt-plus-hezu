@@ -81,7 +81,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 银河录像局成立于2019年，由杭州崇宇信息科技有限公司运营，拥有完备的合法经营资质（浙ICP备2022036459号、ICP经营许可证：浙B2-20230847），在流媒体合租和AI工具合租领域积累了大量的忠实用户，在行业内也赢得了良好的口碑。
 
-截止到目前为止，该平台上的<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>已售出超过13万份，<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>超过1.3万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro拼车</a>超过7千份，而ChatGPT Plus合租更是突破了21万份销售量。值得一提的是，银河录像局提供的ChatGPT Plus镜像版支持未降智的ChatGPT-4.5、满血版DeepSeek-R1、马斯克的Grok-3以及谷歌Gemini-2 Pro等顶尖大模型，让你能同时体验多种前沿AI技术的强大功能！
+截止到目前为止，该平台上的<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>已售出超过13万份，<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>超过1.3万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro拼车</a>超过7千份，而ChatGPT Plus合租更是突破了21万份销售量。值得一提的是，银河录像局提供的ChatGPT Plus镜像版支持**ChatGPT-4o图片生成功能**，以及未降智的ChatGPT-4.5、满血版DeepSeek-R1、马斯克的Grok-3以及谷歌Gemini-2 Pro等顶尖大模型，让你能同时体验多种前沿AI技术的强大功能！
 
 在AI工具合租领域，除了ChatGPT Plus外，他们还提供Midjourney、Claude Pro、Runway、Office365、Adobe团队版全家桶、多领国Plus和Luma等多种工具的合租服务，一站式满足各类AI创作需求。
 
