@@ -1,8 +1,8 @@
-# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！
+# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！可使用ChatGPT-4o图片生成功能，还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！
 
 <p align="center">最近更新于：2025年3月25日</p>
 
-![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车合租渠道推荐](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！可使用ChatGPT-4o图片生成功能，还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 前不久，OpenAI推出了新一代大模型GPT-4.5，这一升级让ChatGPT Plus的功能更加强大，吸引了众多用户的关注！但不少同学因为没有国外信用卡而无法支付订阅费用，或者无法解决魔法上网问题，又或者觉得每月20美金实在太贵，所以想通过合租ChatGPT Plus的方式来使用这一服务！
 
