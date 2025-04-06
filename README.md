@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！可使用ChatGPT-4o图片生成功能，还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！
 
-<p align="center">最近更新于：2025年3月25日</p>
+<p align="center">最近更新于：2025年4月6日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！可使用ChatGPT-4o图片生成功能，还支持满血版DeepSeek-R1、马斯克的Grok-3和谷歌Gemini-2 Pro！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
