@@ -85,21 +85,17 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 截止到目前为止，银河录像局的<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>服务已售出超过14万份，<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>超过1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro拼车</a>超过1.1万份，ChatGPT Plus合租的销量更是突破了27万份。值得一提的是，银河录像局提供的“银河AI”服务，不仅支持使用GPT-4o生图功能、GPT-4.1/o3/o1系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-3以及谷歌Gemini-2 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能！
 
-在AI工具合租领域，除了ChatGPT Plus外，他们还提供Midjourney、Claude Pro、Runway、Office365、Adobe团队版全家桶、多领国Plus和Luma等多种工具的合租服务，一站式满足各类AI创作需求。
+在AI工具合租领域，除了ChatGPT Plus之外，银河录像局还提供Midjourney、Claude Pro、Runway、Office365、Adobe团队版全家桶、多邻国Plus和Luma等多种工具的合租服务，能够一站式满足各类AI创作需求。同时，银河录像局还提供多种流媒体合租服务，包括Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video和TV伴侣等热门平台。如果你需要海外账号，银河录像局也能帮到你，他们提供美区Apple ID、Google账号和Spotify账号等成品账号服务，完美解决你的海外账号难题。
 
-银河录像局同时提供多种流媒体合租服务，包括Netflix、Youtube、Disney、Spotify、HBO Max、Prime Video和TV伴侣等热门平台。
+截至目前，银河录像局的产品累计成交量已超过1000万，服务客户超过100万，业务覆盖全球100多个国家和地区。无论你是想体验全球领先的AI工具，还是想畅享海外流媒体平台的精彩内容，银河录像局都能以实惠的价格满足你的各种需求！
 
-如果你需要海外账号，银河录像局也能帮到你，他们提供美区Apple ID、Google账号和Spotify账号等成品账号服务，完美解决你的海外账号难题。
+## 除了银河录像局之外，还有哪些靠谱的ChatGPT-4/4o/4.1合租平台？
 
-截至目前，银河录像局的产品成交量已经超过1000万，服务过的客户超过100万，业务覆盖全球100多个国家和地区。无论你是想体验全球领先的AI工具，还是享受海外流媒体平台提供的精彩内容，银河录像局都能以实惠的价格满足你的各种需求！
-
-## 除了银河录像局之外，还有哪些靠谱的ChatGPT-4合租平台？
-
-虽然市面上有许多ChatGPT-4合租平台，但大多数为私人性质，操作复杂、安全性难以保障，且价格偏高。经过对十余个ChatGPT-4合租平台的测试和比较，我们最终筛选出三个相对更为靠谱的平台。
+虽然市面上有许多ChatGPT-4/4o/4.1合租平台，但大多数为私人性质，操作复杂、安全性难以保障，且价格偏高。经过对十余个ChatGPT-4/4o/4.1合租平台的测试和比较，我们最终筛选出三个相对最靠谱的平台。
 
 首先，我们最推荐的当然是“<a href="https://nf.video/BTgSc">银河录像局</a>”。它提供的服务比较全面，无论你的需求是什么，都能在“银河录像局”获得一站式解决方案。银河录像局操作起来比较简单，也非常的安全可靠，同时价格也十分实惠。
 
-当然，除了银河录像局之外，还有三个相对比较靠谱的ChatGPT-4合租平台，并且它们各有优势，大家可以根据自己的需求进行选择。以下是关于这三个ChatGPT-4合租平台的简介。
+当然，除了银河录像局之外，还有三个相对比较靠谱的ChatGPT-4/4o/4.1合租平台，并且它们各有优势，大家可以根据自己的需求进行选择。以下是关于这三个ChatGPT-4/4o/4.1合租平台的简介。
 
 ### ChatGPT-4合租备选（一）：<a href="https://yeka.ai/i/ANYOFAI">野卡随心用</a>
 
