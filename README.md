@@ -180,7 +180,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 需要注意的是，如果你没有美区Apple ID，可以自行注册一个，也可以通过“银河录像局”直接购买一个现成的美区Apple ID账户。购买流程为：打开“银河录像局”官网，点击首页的“增值服务”，选择“苹果商店”，然后按照系统提示操作即可。大家在购买美区Apple ID账户时，使用优惠码“**ANYOFAI**”可享九折优惠！
 
-<a href="https://nf.video/BTgSc">立即购买美区Apple ID帐号</a>
+<p align="center"><a href="https://nf.video/BTgSc">立即购买美区Apple ID帐号</a></p>
 
 ## 拼车合租ChatGPT Plus会员安全吗？
 
