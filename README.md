@@ -1,4 +1,4 @@
-# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o生图功能、GPT-4.1系列模型、马斯克的Grok-3和谷歌Gemini-2.5 Pro等！
+# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o、GPT-4.1、Grok-3和Gemini-2.5 Pro等AI大模型！
 
 <p align="center">最近更新于：2025年7月10日</p>
 
