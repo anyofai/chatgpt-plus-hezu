@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2025年7月10日</p>
 
-![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o生图功能、GPT-4.1系列模型、马斯克的Grok-3和谷歌Gemini-2.5 Pro等！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o、GPT-4.1、Grok-3和Gemini-2.5 Pro等AI大模型！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 前不久，OpenAI推出了GPT-4o生图功能和GPT-4.1系列模型，这一升级让ChatGPT Plus的功能更加强大，吸引了众多用户关注。然而，许多用户由于没有国外信用卡，无法支付ChatGPT Plus的订阅费用，或者无法解决科学上网的问题，还有一些人觉得每月20美元的订阅费用过于昂贵，因此希望通过合租ChatGPT Plus的方式来使用这些服务。
 
