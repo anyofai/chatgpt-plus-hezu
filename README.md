@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o、GPT-4.1、Grok-4和Gemini-2.5 Pro等AI大模型！
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o、GPT-4.1、Grok-4和Gemini-2.5 Pro等AI大模型！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
@@ -99,32 +99,11 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 当然，除了银河录像局之外，还有三个相对比较靠谱的ChatGPT-4/4o/4.1合租平台，并且它们各有优势，大家可以根据自己的需求进行选择。以下是关于这三个ChatGPT-4/4o/4.1合租平台的简介。
 
-### ChatGPT-4/4o/4.1合租备选（一）：<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡随心用</a>
+### ChatGPT-4/4o/4.1合租备选（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-![ChatGPT-4/4o/4.1合租备选（一）:WildCard野卡随心用](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-4.png)
+![ChatGPT-4/4o/4.1合租备选（一）：星际放映厅](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%E5%90%88%E7%A7%9F.png)
 
-* WildCard野卡随心用官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
-* WildCard野卡随心用优惠码：ANYOFAI（可立减1美元）
-* WildCard野卡随心用支付方式：支付宝
-* ChatGPT Plus拼车价格：9.9美元/月（使用优惠码后为8.9美元/月）
-
-“WildCard野卡2233随心用”为用户提供原生ChatGPT Plus和Claude Pro的镜像服务，让用户能够直接使用最新的GPT-4o生图功能、GPT-4.1等系列模型，以及Claude Opus 4和Claude Sonnet 4模型。每月只需9.9美元，价格比官方便宜一半！使用邀请码"ANYOFAI"还能再减1美元，超值体验触手可及。
-
-使用野卡2233随心用非常简单，支持支付宝付款，按月收费，支付后即可立即使用，无需复杂注册。通过WildCard野卡官网即可访问，手机浏览器也完全兼容，随时随地畅享AI服务。
-
-最令人安心的是，你无需再担心科学上网问题或ChatGPT、Claude账号被封的风险。WildCard野卡2233随心用采用token额度计算使用量，支持文件上传和Artifacts功能，能够满足你的日常AI需求。
-
-在隐私保护方面，WildCard野卡2233随心用为每位用户的对话记录提供独立存储，确保你的内容完全私密，不会泄露给他人。
-
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡随心用官网</a></p>
-
-****
-
-### ChatGPT-4/4o/4.1合租备选（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
-
-![ChatGPT-4/4o/4.1合租备选（二）：星际放映厅](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%E5%90%88%E7%A7%9F.png)
-
-![ChatGPT-4/4o/4.1合租备选（二）：星际放映厅](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%20Plus%E5%90%88%E7%A7%9F.png)
+![ChatGPT-4/4o/4.1合租备选（一）：星际放映厅](https://github.com/anyofai/chatgpt-plus-hezu/blob/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT%20Plus%E5%90%88%E7%A7%9F.png)
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 * 星际放映厅优惠码：ANYOFAI（可享九折优惠）
@@ -141,9 +120,9 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ****
 
-### ChatGPT-4/4o/4.1合租备选（三）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+### ChatGPT-4/4o/4.1合租备选（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
-![ChatGPT-4/4o/4.1合租备选（三）：环球巴士](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
+![ChatGPT-4/4o/4.1合租备选（二）：环球巴士](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT%E5%90%88%E7%A7%9F.png)
 
 * 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 * 环球巴士优惠码：ANYOFAI（可享九折优惠）
@@ -156,19 +135,25 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">访问环球巴士官网</a></p>
 
+****
+
+### ChatGPT-4/4o/4.1合租备选（三）：WildCard野卡随心用
+
+![ChatGPT-4/4o/4.1合租备选（三）:WildCard野卡随心用](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-4.png)
+
+“WildCard野卡2233随心用”为用户提供原生ChatGPT Plus和Claude Pro的镜像服务，让用户能够直接使用最新的GPT-4o生图功能、GPT-4.1等系列模型，以及Claude Opus 4和Claude Sonnet 4模型。每月只需9.9美元，价格比官方便宜一半！使用邀请码"ANYOFAI"还能再减1美元，超值体验触手可及。
+
+使用野卡2233随心用非常简单，支持支付宝付款，按月收费，支付后即可立即使用，无需复杂注册。通过WildCard野卡官网即可访问，手机浏览器也完全兼容，随时随地畅享AI服务。
+
+最令人安心的是，你无需再担心科学上网问题或ChatGPT、Claude账号被封的风险。WildCard野卡2233随心用采用token额度计算使用量，支持文件上传和Artifacts功能，能够满足你的日常AI需求。
+
+在隐私保护方面，WildCard野卡2233随心用为每位用户的对话记录提供独立存储，确保你的内容完全私密，不会泄露给他人。
+
 ## 除了合租ChatGPT-4/4o/4.1，还有哪些方法能获得ChatGPT Plus账号？
 
 中国大陆用户如果想获取ChatGPT Plus账号，除了通过合租共享的方式外，还可以使用“WildCard野卡信用卡”自行订阅ChatGPT Plus会员，或者通过专业的第三方平台代充值，亦或使用苹果礼品卡为ChatGPT Plus充值。这些方式各有优劣，大家可以根据自身需求进行选择。
 
-### 方法一：使用WildCard野卡信用卡自行订阅ChatGPT Plus会员
-
-使用WildCard野卡虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方法。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面都表现出色。
-
-如果你不清楚如何申请WildCard野卡虚拟信用卡，或者不知道如何使用WildCard野卡虚拟信用卡订阅ChatGPT Plus会员，可以查看《<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus购买</a>》一文。在这篇文章中，我们会手把手教大家如何仅凭一个+86手机号就能轻松获取一张WildCard野卡虚拟信用卡，以及如何使用该卡为ChatGPT Plus充值。此外，如果你想了解更多关于WildCard野卡的信息，请查看《<a href="https://anyofai.github.io/">WildCard野卡怎么样</a>》一文。
-
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡官网</a></p>
-
-### 方法二：使用星际放映厅的ChatGPT Plus代充值服务
+### 方法一：使用星际放映厅的ChatGPT Plus代充值服务
 
 许多中国用户由于没有国外信用卡，或者在支付时遇到信用卡被拒的情况，导致无法完成ChatGPT Plus的订阅。此时，星际放映厅提供的ChatGPT Plus代充值服务可以很好地解决这个问题。用户无需自己处理繁琐的支付流程，也不用担心信用卡被拒等问题，星际放映厅会全程代为操作，让整个订阅过程变得简单、省心。
 
@@ -176,13 +161,19 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
-### 方法三：使用苹果礼品卡充值ChatGPT Plus会员
+### 方法二：使用苹果礼品卡充值ChatGPT Plus会员
 
-最后一种方法是使用苹果礼品卡为ChatGPT Plus会员充值，但这种方式并不太适合普通用户。首先，你需要拥有一个美区Apple ID，然后通过支付宝购买苹果礼品卡，将礼品卡余额充值到该Apple ID，之后即可订阅ChatGPT Plus会员。这种方式的优势在于无需使用信用卡，能够充分利用苹果的支付体系，尤其适合习惯使用苹果设备的用户。不过，整体操作流程较为复杂，对大多数普通用户来说并不友好。
+还有一种方法是使用苹果礼品卡为ChatGPT Plus会员充值，但这种方式并不太适合普通用户。首先，你需要拥有一个美区Apple ID，然后通过支付宝购买苹果礼品卡，将礼品卡余额充值到该Apple ID，之后即可订阅ChatGPT Plus会员。这种方式的优势在于无需使用信用卡，能够充分利用苹果的支付体系，尤其适合习惯使用苹果设备的用户。不过，整体操作流程较为复杂，对大多数普通用户来说并不友好。
 
 需要注意的是，如果你没有美区Apple ID，可以自行注册一个，也可以通过“银河录像局”直接购买一个现成的美区Apple ID账户。购买流程为：打开“银河录像局”官网，点击首页的“增值服务”，选择“苹果商店”，然后按照系统提示操作即可。大家在购买美区Apple ID账户时，使用优惠码“**ANYOFAI**”可享九折优惠！
 
 <p align="center"><a href="https://nf.video/BTgSc">立即购买美区Apple ID帐号</a></p>
+
+### 方法三：使用WildCard野卡信用卡自行订阅ChatGPT Plus会员
+
+使用WildCard野卡虚拟信用卡开通ChatGPT Plus会员是我们最推荐的方式，也是最适合绝大多数普通用户的方法。其优势在于，用户可以拥有一个完全独立的ChatGPT Plus会员账号，无需与他人共享，且在使用过程中没有任何限制，在隐私安全和使用体验方面都表现出色。
+
+如果你不清楚如何申请WildCard野卡虚拟信用卡，或者不知道如何使用WildCard野卡虚拟信用卡订阅ChatGPT Plus会员，可以查看《<a href=https://github.com/anyofai/anyofai.github.io>ChatGPT Plus购买</a>》一文。在这篇文章中，我们会手把手教大家如何仅凭一个+86手机号就能轻松获取一张WildCard野卡虚拟信用卡，以及如何使用该卡为ChatGPT Plus充值。
 
 ## 合租ChatGPT Plus帐号的优势有哪些？
 
