@@ -2,11 +2,11 @@
 
 <p align="center">最近更新于：2025年7月10日</p>
 
-![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o、GPT-4.1、Grok-3和Gemini-2.5 Pro等AI大模型！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(每月仅27元)！支持使用GPT-4o、GPT-4.1、Grok-4和Gemini-2.5 Pro等AI大模型！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 前不久，OpenAI推出了GPT-4o生图功能和GPT-4.1系列模型，这一升级让ChatGPT Plus的功能更加强大，吸引了众多用户关注。然而，许多用户由于没有国外信用卡，无法支付ChatGPT Plus的订阅费用，或者无法解决科学上网的问题，还有一些人觉得每月20美元的订阅费用过于昂贵，因此希望通过合租ChatGPT Plus的方式来使用这些服务。
 
-接下来，我们将为大家精心推荐2025年最靠谱的ChatGPT Plus合租平台。该平台不仅价格低至27元/月，还能让你畅享GPT-4o生图功能、GPT-4.1系列模型、满血版DeepSeek-R1、马斯克的Grok-3以及谷歌Gemini-2.5 Pro等顶级AI模型。
+接下来，我们将为大家精心推荐2025年最靠谱的ChatGPT Plus合租平台。该平台不仅价格低至27元/月，还能让你畅享GPT-4o生图功能、GPT-4.1系列模型、满血版DeepSeek-R1、马斯克的Grok-4以及谷歌Gemini-2.5 Pro等顶级AI模型。
 
 ## 2025年靠谱的ChatGPT Plus合租平台推荐
 
@@ -18,7 +18,7 @@
 
 ## 国内拼车合租ChatGPT Plus账号的操作步骤
 
-值得注意的是，通过银河录像局提供的“银河AI”服务，你不仅无需担心科学上网的问题，而且还可以以每月27元人民币的价格享受ChatGPT-4o生图功能、GPT-4.1系列模型、满血版DeepSeek-R1、马斯克的Grok-3、谷歌Gemini-2.5 Pro等顶级AI模型！
+值得注意的是，通过银河录像局提供的“银河AI”服务，你不仅无需担心科学上网的问题，而且还可以以每月27元人民币的价格享受ChatGPT-4o生图功能、GPT-4.1系列模型、满血版DeepSeek-R1、马斯克的Grok-4、谷歌Gemini-2.5 Pro等顶级AI模型！
 
 ### 第一步：访问银河录像局官网，并点击右上角的“登录/注册”按钮。 
 
@@ -38,7 +38,7 @@
 
 银河录像局提供的“银河AI”服务分为三个档位：基础版每月29元，每6小时可对话30次；标准版每月45元，每6小时可对话60次；专业版每月99元，每3小时可对话60次。
 
-注意：“银河AI”不仅支持ChatGPT-4o生图功能和GPT-4.1/o3/o1系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-3，以及谷歌Gemini-2.5 Pro等顶尖大模型！
+注意：“银河AI”不仅支持ChatGPT-4o生图功能和GPT-4.1/o3/o1系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型！
 
 ![国内拼车合租ChatGPT Plus帐号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
 
@@ -83,7 +83,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 银河录像局成立于2019年，由杭州崇宇信息科技有限公司运营，拥有完备的合法经营资质（浙ICP备2022036459号、ICP经营许可证：浙B2-20230847），在流媒体合租和AI工具合租领域积累了大量的忠实用户，在行业内也赢得了良好的口碑。
 
-截止到目前为止，银河录像局的<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>服务已售出超过14万份，<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>超过1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro拼车</a>超过1.1万份，ChatGPT Plus合租的销量更是突破了27万份。值得一提的是，银河录像局提供的“银河AI”服务，不仅支持使用GPT-4o生图功能、GPT-4.1/o3/o1系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-3以及谷歌Gemini-2 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能！
+截止到目前为止，银河录像局的<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>服务已售出超过14万份，<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>超过1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro拼车</a>超过1.1万份，ChatGPT Plus合租的销量更是突破了27万份。值得一提的是，银河录像局提供的“银河AI”服务，不仅支持使用GPT-4o生图功能、GPT-4.1/o3/o1系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4以及谷歌Gemini-2 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能！
 
 在AI工具合租领域，除了ChatGPT Plus之外，银河录像局还提供Midjourney、Claude Pro、Runway、Office365、Adobe团队版全家桶、多邻国Plus和Luma等多种工具的合租服务，能够一站式满足各类AI创作需求。同时，银河录像局还提供多种流媒体合租服务，包括Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video和TV伴侣等热门平台。如果你需要海外账号，银河录像局也能帮到你，他们提供美区Apple ID、Google账号和Spotify账号等成品账号服务，完美解决你的海外账号难题。
 
