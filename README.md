@@ -100,6 +100,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
+****
+
 ## 2025年ChatGPT Plus合租平台的备选：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 星际放映厅成立于2023年，是一家专注于流媒体和AI工具合租的综合服务平台。该平台已经在浙江省合法备案（浙ICP备2023017856号），由专业团队规范运营，在业内拥有良好的口碑和较高的用户信任度。虽然星际放映厅是一个新兴品牌，但在合规性、稳定性和服务体验等方面表现出色，也是一个安全可靠、值得放心选择的平台。
@@ -109,13 +111,13 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 * 星际放映厅支付方式：支付宝
 * ChatGPT Plus拼车价格：50元/月
 
-星际放映厅不仅提供ChatGPT Plus共享账号，还提供ChatGPT Plus独享账号，大家可以根据自己的需求自由选择。
+星际放映厅不仅提供**ChatGPT Plus共享账号**，还提供**ChatGPT Plus独享账号**，大家可以根据自己的需求自由选择。
 
 ![星际放映厅提供ChatGPT Plus合租服务，以及ChatGPT Plus独享账号](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-6.png)
 
 ![星际放映厅提供ChatGPT Plus合租服务，以及ChatGPT Plus独享账号](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-7.png)
 
-值得注意的是，如果你想为现有的ChatGPT账号充值，也可以选择星际放映厅提供的“ChatGPT Plus代充值”服务。
+值得注意的是，如果你想为现有的ChatGPT账号充值，也可以选择星际放映厅提供的“**ChatGPT Plus代充值**”服务。
 
 ![星际放映厅也提供“ChatGPT Plus代充值”服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-8.png)
 
@@ -124,6 +126,8 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 当然，星际放映厅还提供Midjourney合租与Midjourney代充值、SuperGrok合租与SuperGrok代充值、Poe代充值等服务，以及Netflix、Disney+、YouTube、Spotify等流媒体合租服务。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
+
+****
 
 ## 2025年ChatGPT Plus合租平台的替补：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
