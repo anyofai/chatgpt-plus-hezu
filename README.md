@@ -36,9 +36,9 @@
 
 ![银河录像局提供原生的ChatGPT Plus合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-4.png)
 
-如果你想在使用ChatGPT Plus时享受更流畅、更稳定的体验，也可以选择银河录像局提供的“独立会员”服务。当你购买该服务后，银河录像局会直接为你提供一个已经完成订阅充值的ChatGPT Plus账号，该账号完全独属于你一个人，没有任何限制。
+#### 如果你想在使用ChatGPT Plus时享受更流畅、更稳定的体验，也可以选择银河录像局提供的“独立会员”服务。当你购买该服务后，银河录像局会直接为你提供一个已经完成订阅充值的ChatGPT Plus账号，该账号完全独属于你一个人，没有任何限制。
 
-**重要提示**：如果你不想每个月都花时间去续订ChatGPT Plus会员，我们建议你直接选择银河录像局提供的“ChatGPT Plus独立会员年付”套餐。这个套餐性价比非常高，不仅能够让你在未来一年内省去反复充值和续费的麻烦，还为你提供了完善的售后保障。也就是说，如果在使用过程中账号出现被封等问题，银河录像局会免费为你更换新账号，确保你在一年内始终可以安心无忧地使用ChatGPT Plus会员服务。
+#### **重要提示**：如果你不想每个月都花时间去续订ChatGPT Plus会员，我们建议你直接选择银河录像局提供的“ChatGPT Plus独立会员年付”套餐。这个套餐性价比非常高，不仅能够让你在未来一年内省去反复充值和续费的麻烦，还为你提供了完善的售后保障。也就是说，如果在使用过程中账号出现被封等问题，银河录像局会免费为你更换新账号，确保你在一年内始终可以安心无忧地使用ChatGPT Plus会员服务。
 
 ![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-5.png)
 
