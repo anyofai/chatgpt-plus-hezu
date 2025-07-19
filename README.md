@@ -32,7 +32,7 @@
 
 ![银河录像局提供的“银河AI”服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-3.png)
 
-如果你希望使用由OpenAI官方直接提供的原生服务，也可以选择银河录像局提供的“共享会员”服务。通过该服务，你能够畅享OpenAI原生的ChatGPT Plus会员权益，而且价格也非常实惠。
+如果你希望使用由OpenAI官方直接提供的原生服务，也可以选择银河录像局提供的“共享会员”服务。通过该服务，**你能够畅享OpenAI原生的ChatGPT Plus会员权益**，而且价格也非常实惠。
 
 ![银河录像局提供原生的ChatGPT Plus合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-4.png)
 
