@@ -18,8 +18,6 @@
 
 首先，银河录像局非常安全可靠。银河录像局成立于2019年，隶属于杭州崇宇信息科技有限公司，该公司拥有完备的合法经营资质（浙ICP备2022036459号、ICP经营许可证：浙B2-20230847）。在流媒体和AI工具合租领域，银河录像局是当之无愧的龙头老大，在行业内拥有大量忠实用户和良好口碑。截至目前，银河录像局累计成交订单已超过1000万单，服务用户超过100万，覆盖全球100多个国家和地区，整体实力可以说非常雄厚。
 
-![银河录像局已完成备案](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-1.png)
-
 其次，银河录像局提供的服务非常丰富。除了提供ChatGPT Plus、Midjourney、Claude Pro、Runway、Luma、Office365、Adobe团队版全家桶、多邻国Plus等AI工具的合租服务外，银河录像局还提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video和TV伴侣等流媒体合租服务。此外，银河录像局还提供**美区Apple ID、Google账号**、Spotify账号等成品账号服务。
 
 从银河录像局官网可以看到，目前他们提供的ChatGPT Plus合租服务已售出29万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
