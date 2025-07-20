@@ -20,8 +20,6 @@
 
 其次，银河录像局提供的服务非常丰富。除了提供ChatGPT Plus、Midjourney、Claude Pro、Runway、Luma、Office365、Adobe团队版全家桶、多邻国Plus等AI工具的合租服务外，银河录像局还提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video和TV伴侣等流媒体合租服务。此外，银河录像局还提供**美区Apple ID、Google账号**、Spotify账号等成品账号服务。
 
-从银河录像局官网可以看到，目前他们提供的ChatGPT Plus合租服务已售出29万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
-
 ![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-2.png)
 
 对于ChatGPT的轻度用户来说，银河录像局是一个非常友好的平台。他们提供的“银河AI”服务，**不仅支持使用GPT-4o生图功能和GPT-4.1/o3/o1系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-25 Pro等顶尖大模型**，让你能够同时体验多种前沿AI技术的强大功能！
@@ -97,6 +95,8 @@
 ![国内合租共享ChatGPT Plus帐号操作步骤十：开始正式使用ChatGPT Plus](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-10.png)
 
 OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步骤！银河录像局的“银河AI”服务无需魔法上网，国内网络即可直接使用。如果想要在手机或平板上使用，只需在移动设备上通过浏览器打开银河录像局官网并使用账号密码登录，然后点击导航栏中的“车票”按钮，即可快速进入ChatGPT Plus的使用界面，非常简单。
+
+此外，值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出29万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
