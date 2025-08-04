@@ -100,7 +100,7 @@
 
 OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步骤！银河录像局的“银河AI”服务无需魔法上网，国内网络即可直接使用。如果想要在手机或平板上使用，只需在移动设备上通过浏览器打开银河录像局官网并使用账号密码登录，然后点击导航栏中的“车票”按钮，即可快速进入ChatGPT Plus的使用界面，非常简单。
 
-此外，值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出29万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
+此外，值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出30万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
