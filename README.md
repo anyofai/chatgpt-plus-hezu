@@ -22,8 +22,6 @@
 
 最后，银河录像局还提供**美区Apple ID、Google账号**、Spotify账号等成品账号服务。
 
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
-
 ![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-2-1.png)
 
 对于ChatGPT的轻度用户来说，银河录像局是一个非常友好的平台。他们提供的“银河AI”服务，**不仅支持使用GPT-4o生图功能和GPT-4.1/o3/o1系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-25 Pro等顶尖大模型**，让你能够同时体验多种前沿AI技术的强大功能！
@@ -43,6 +41,8 @@
 ![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-5-2.png)
 
 最后，银河录像局的售后服务也非常给力。从每天早上九点到晚上十点，无论遇到什么问题，你都可以第一时间联系真人在线客服寻求帮助。他们的客服不仅响应速度快，而且非常专业，能够高效地为你解决各种问题。
+
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
 ****
 
