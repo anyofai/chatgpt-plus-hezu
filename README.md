@@ -22,7 +22,7 @@
 
 最后，银河录像局还提供**美区Apple ID、Google账号**、Spotify账号等成品账号服务。
 
-<p align="center">银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a></p>
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
 ![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-2-1.png)
 
