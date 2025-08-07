@@ -127,7 +127,7 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 ![为什么选星际放映厅的理由](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-9.png)
 
-当然，星际放映厅还提供Midjourney合租与Midjourney代充值、SuperGrok合租与SuperGrok代充值、Poe代充值等服务，以及Netflix、Disney+、YouTube、Spotify等流媒体合租服务。
+当然，星际放映厅还提供Midjourney合租与Midjourney代充值、<a href="https://github.com/anyofai/x-twitter">SuperGrok合租与SuperGrok代充值</a>、Poe代充值等服务，以及Netflix、Disney+、YouTube、Spotify等流媒体合租服务。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
