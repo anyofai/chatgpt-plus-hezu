@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立帐号)！支持使用GPT-4o、GPT-4.1、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！
 
-<p align="center">最近更新于：2025年8月4日</p>
+<p align="center">最近更新于：2025年8月7日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立帐号)！支持使用GPT-4o、GPT-4.1、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
@@ -8,7 +8,7 @@
 
 可能很多同学不知道自己该选择“ChatGPT Plus合租”还是“ChatGPT Plus代充值”。这么说吧，如果你是ChatGPT的轻度用户，那么就建议选择ChatGPT Plus合租，因为它**无需科学上网、无需注册帐号、价格便宜，也无封号风险**，但在使用次数上会有一定限制。本文下方会为大家推荐三个**合规、稳定、服务体验良好**的ChatGPT Plus合租平台，以及国内拼车ChatGPT Plus的详细操作步骤。
 
-如果你在工作中高度依赖ChatGPT，我们建议你直接选择ChatGPT Plus代充值。请参阅：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>。
+* 如果你在工作中高度依赖ChatGPT，我们建议你直接选择ChatGPT Plus代充值。请参阅：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>。
 
 特别提醒：大家在选择ChatGPT Plus合租平台时，一定要远离那些由个人或小团队运营的平台。很多小型平台提供的都是一锤子买卖，潜藏着各种致命风险，比如只收钱不办事、账号无法正常使用、账号使用几天后就被封，甚至存在泄露用户隐私和使用记录的风险。
 
