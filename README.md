@@ -8,7 +8,7 @@
 
 可能很多同学不知道自己该选择“ChatGPT Plus合租”还是“ChatGPT Plus代充值”。这么说吧，如果你是ChatGPT的轻度用户，那么就建议选择ChatGPT Plus合租，因为它**无需科学上网、无需注册帐号、价格便宜，也无封号风险**，但在使用次数上会有一定限制。本文下方会为大家推荐三个**合规、稳定、服务体验良好**的ChatGPT Plus合租平台，以及国内拼车ChatGPT Plus的详细操作步骤。
 
-* 如果你已有ChatGPT帐号，也可以选择ChatGPT Plus代充值。请参阅：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>（133元/月）。
+* 如果你是ChatGPT重度用户，也可以选择ChatGPT Plus代充值。请参阅：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>（133元/月）。
 
 特别提醒：大家在选择ChatGPT Plus合租平台时，一定要远离那些由个人或小团队运营的平台。很多小型平台提供的都是一锤子买卖，潜藏着各种致命风险，比如只收钱不办事、账号无法正常使用、账号使用几天后就被封，甚至存在泄露用户隐私和使用记录的风险。
 
