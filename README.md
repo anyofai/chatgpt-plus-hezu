@@ -38,7 +38,7 @@
 
 **重要提示**：如果你不想每个月都花时间去续订ChatGPT Plus会员，我们建议你直接选择银河录像局提供的“ChatGPT Plus独立会员年付”套餐。**这个套餐性价比非常高，不仅能够让你在未来一年内省去反复充值和续费的麻烦，还为你提供了完善的售后保障**。也就是说，如果在使用过程中账号出现被封等问题，银河录像局会免费为你更换新账号，确保你在一年内始终可以安心无忧地使用ChatGPT Plus会员服务。
 
-![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-5-2.png)
+![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-5-3.png)
 
 最后，银河录像局的售后服务也非常给力。从每天早上九点到晚上十点，无论遇到什么问题，你都可以第一时间联系真人在线客服寻求帮助。他们的客服不仅响应速度快，而且非常专业，能够高效地为你解决各种问题。
 
