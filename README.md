@@ -100,7 +100,7 @@
 
 OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步骤！银河录像局的“银河AI”服务无需魔法上网，国内网络即可直接使用。如果想要在手机或平板上使用，只需在移动设备上通过浏览器打开银河录像局官网并使用账号密码登录，然后点击导航栏中的“车票”按钮，即可快速进入ChatGPT Plus的使用界面，非常简单。
 
-此外，值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出30万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
+此外，值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出30万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
@@ -252,7 +252,7 @@ ChatGPT Plus合租帐号是否会自动续费，主要取决于你选择的合�
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
-* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
+* <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
 * <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
 
 * <a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>：详细解答“WildCard野卡怎么样”和“WildCard野卡安全吗”等常见问题。
