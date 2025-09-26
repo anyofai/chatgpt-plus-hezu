@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立帐号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！
 
-<p align="center">最近更新于：2025年9月17日</p>
+<p align="center">最近更新于：2025年9月26日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立帐号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
@@ -20,7 +20,7 @@
 
 其次，银河录像局提供的服务非常丰富。除了提供ChatGPT Plus、Midjourney、Claude Pro、Runway、Luma、Office365、Adobe团队版全家桶、多邻国Plus等AI工具的合租服务外，银河录像局还提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video和TV伴侣等流媒体合租服务。
 
-最后，银河录像局还提供**美区Apple ID、Google账号**、Spotify账号等成品账号服务。
+最后，银河录像局还提供**美区Apple ID、Google账号、Claude Code、Codex**、Spotify账号等成品账号服务。
 
 ![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-2-1.png)
 
@@ -36,9 +36,9 @@
 
 如果你想在使用ChatGPT Plus时享受更流畅、更稳定的体验，也可以选择银河录像局提供的“独立会员”服务。当你购买该服务后，**银河录像局会直接为你提供一个已经完成订阅充值的ChatGPT Plus账号，该账号完全独属于你一个人，没有任何限制**，而且价格非常便宜，使用优惠码“ANYOFAI”后，**每月仅需171元**。
 
-**重要提示**：如果你不想每个月都花时间去续订ChatGPT Plus会员，我们建议你直接选择银河录像局提供的“ChatGPT Plus独立会员年付”套餐。**这个套餐性价比非常高，不仅能够让你在未来一年内省去反复充值和续费的麻烦，还为你提供了完善的售后保障**。也就是说，如果在使用过程中账号出现被封等问题，银河录像局会免费为你更换新账号，确保你在一年内始终可以安心无忧地使用ChatGPT Plus会员服务。
+**重要提示**：如果你不想每个月都花时间去续订ChatGPT Plus会员，我们建议直接选择银河录像局提供的“ChatGPT Plus独立会员年付”套餐，**每月仅需158元**，性价比非常高。**该套餐不仅能让你在未来一年内省去频繁充值和续费的麻烦，还提供完善的售后保障**。如果在使用过程中出现账号被封等问题，银河录像局会免费为你更换新账号，确保你在一年内始终可以安心无忧地使用ChatGPT Plus会员服务。
 
-![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-5-4.png)
+![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-5-5.png)
 
 最后，银河录像局的售后服务也非常给力。从每天早上九点到晚上十点，无论遇到什么问题，你都可以第一时间联系真人在线客服寻求帮助。他们的客服不仅响应速度快，而且非常专业，能够高效地为你解决各种问题。
 
