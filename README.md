@@ -20,7 +20,7 @@
 
 其次，银河录像局提供的服务非常丰富。除了提供ChatGPT Plus、Midjourney、Claude Pro、Runway、Luma、Office365、Adobe团队版全家桶、多邻国Plus等AI工具的合租服务外，银河录像局还提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video和TV伴侣等流媒体合租服务。
 
-最后，银河录像局还提供**美区Apple ID、Google账号**、**<a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>**、**<a href="https://github.com/anyofai/anyofai.github.io">Codex拼车</a>**等服务。
+最后，银河录像局还提供**美区Apple ID**、**Google账号**、**<a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>**、**<a href="https://github.com/anyofai/anyofai.github.io">Codex拼车</a>**等服务。
 
 ![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-2-1.png)
 
