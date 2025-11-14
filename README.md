@@ -142,13 +142,15 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 ## 除了合租，还有哪些方式可以开通ChatGPT Plus会员？
 
-自WildCard野卡停止服务后，目前还没有出现既安全又好用的虚拟信用卡产品。因此，除了合租ChatGPT Plus会员，目前还可以尝试通过苹果礼品卡为ChatGPT Plus会员充值。不过，这种方式并不太适合普通用户，而且成功率也较低，容易落得一个人财两空的局面。
+自WildCard野卡停止服务后，目前市场上还没有出现既安全又稳定的虚拟信用卡产品。因此，除了合租ChatGPT Plus会员外，用户还可以尝试通过苹果礼品卡（Apple Gift Card）为ChatGPT Plus充值。
 
-通过苹果礼品卡为ChatGPT Plus会员充值的具体操作流程如下：首先，你需要拥有一个美区Apple ID；然后，通过支付宝购买苹果礼品卡，并将礼品卡余额充值到该Apple ID账户；最后，使用该余额订阅ChatGPT Plus会员。这种方式的优点是无需信用卡，能够充分利用苹果的支付体系，比较适合习惯使用苹果设备的用户。但整体操作流程较为复杂，对大多数普通用户来说不太友好，而且成功率也比较低。
+具体操作流程如下：首先，你需要拥有一个美区Apple ID账号；其次，需要购买一张苹果礼品卡，并将礼品卡余额充值至该Apple ID账户；最后，使用充值后的余额订阅ChatGPT Plus会员。这种方式的优点是无需绑定信用卡，可以直接利用苹果自带的支付体系，整体安全性较高，尤其适合使用苹果设备的用户。不过，该流程相对繁琐，对不熟悉跨区操作的用户来说可能不太友好。
 
-需要注意的是，如果你没有美区Apple ID，可以自行注册一个，也可以通过“银河录像局”直接购买现成的美区Apple ID账户。具体购买流程为：打开“银河录像局”官网，点击首页的“增值服务”，选择“苹果商店”，并按照系统提示操作即可。购买美区Apple ID账户时，使用优惠码“ANYOFAI”还可享受九折优惠！
+如果你还没有美区Apple ID账号，可以选择自行注册一个，也可以通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”等专业平台直接购买美区Apple ID账号和一张20美元的苹果礼品卡。随后，只需使用该美区Apple ID账号登录App Store，将礼品卡余额充值到账户后，即可用于开通ChatGPT Plus会员。
 
-<p align="center"><a href="https://nf.video/BTgSc">立即购买美区Apple ID账号</a></p>
+![ChatGPT Plus合租：通过账号星球平台购买美区Apple ID帐号和苹果礼品卡](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-13.png)
+
+关于如何使用苹果礼品卡订阅ChatGPT Plus的详细步骤，可参考《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》一文中的“方法四”章节，里面有更加完整的图文说明。
 
 ## 合租ChatGPT Plus账号的优势有哪些？
 
