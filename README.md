@@ -28,17 +28,17 @@
 
 注意：银河录像局提供的“银河AI”服务用起来非常省心，不仅**无需科学上网、无需注册账号、没有封号风险**，而且价格也非常实惠，**每月仅需29元**（使用优惠码“**ANYOFAI**”可享九折优惠），非常适合ChatGPT轻度用户使用。
 
-![银河录像局提供的“银河AI”服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-3-1.png)
+![银河录像局提供的“银河AI”服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
 
 如果你希望使用由OpenAI官方直接提供的原生服务，也可以选择银河录像局提供的“共享会员”服务。通过该服务，**你能够畅享OpenAI原生的ChatGPT Plus会员权益**，而且价格也非常实惠。
 
-![银河录像局提供原生的ChatGPT Plus合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-4-1.png)
+![银河录像局提供原生的ChatGPT Plus合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
 如果你想在使用ChatGPT Plus时享受更流畅、更稳定的体验，也可以选择银河录像局提供的“独立会员”服务。当你购买该服务后，**银河录像局会直接为你提供一个已经完成订阅充值的ChatGPT Plus账号，该账号完全独属于你一个人，没有任何限制**，而且价格非常便宜，使用优惠码“ANYOFAI”后，**每月仅需171元**。
 
 **重要提示**：如果你不想每个月都花时间去续订ChatGPT Plus会员，我们建议直接选择银河录像局提供的“ChatGPT Plus独立会员年付”套餐，**每月仅需158元**，性价比非常高。**该套餐不仅能让你在未来一年内省去频繁充值和续费的麻烦，还提供完善的售后保障**。如果在使用过程中出现账号被封等问题，银河录像局会免费为你更换新账号，确保你在一年内始终可以安心无忧地使用ChatGPT Plus会员服务。
 
-![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-5-5.png)
+![银河录像局提供ChatGPT Plus独立会员服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
 最后，银河录像局的售后服务也非常给力。从每天早上九点到晚上十点，无论遇到什么问题，你都可以第一时间联系真人在线客服寻求帮助。他们的客服不仅响应速度快，而且非常专业，能够高效地为你解决各种问题。
 
@@ -54,15 +54,15 @@
 
 * 银河录像局官网地址：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![国内拼车合租ChatGPT Plus账号操作步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-1.png)
+![国内拼车合租ChatGPT Plus账号操作步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
 ### 第二步：使用手机号码登录或通过微信扫码登录。
 
-![国内拼车合租ChatGPT Plus账号操作步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-2.png)
+![国内拼车合租ChatGPT Plus账号操作步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
 
 ### 第三步：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”。
 
-![国内拼车合租ChatGPT Plus账号操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-1.png)
+![国内拼车合租ChatGPT Plus账号操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7.png)
 
 ### 第四步：选择合适的套餐，并点击“支付宝支付”按钮。
 
@@ -70,37 +70,21 @@
 
 注意：“银河AI”不仅支持GPT-5.1和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型！
 
-![国内拼车合租ChatGPT Plus账号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
+![国内拼车合租ChatGPT Plus账号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
 
-### 第五步：输入优惠码“anyofai”，然后点击“确认”。
+### 第五步：核对套餐信息，确认无误后点击“支付宝支付”。
 
-![国内拼车合租ChatGPT Plus账号操作步骤五：输入优惠码“anyofai”，然后点击“确认”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-5.png)
+![国内合租共享ChatGPT Plus账号操作步骤五：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-9.png)
 
-### 第六步：核对套餐信息，确认无误后点击“支付宝支付”。
+### 第六步：使用支付宝扫码即可完成付款。
 
-![国内合租共享ChatGPT Plus账号操作步骤六：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-6.png)
+![国内合租共享ChatGPT Plus账号操作步骤六：使用支付宝扫码即可完成付款](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-10.png)
 
-### 第七步：付款成功后，点击“查看车票信息”。
+OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏中的“车票”按钮即可看到ChatGPT Plus使用入口，然后就可以正式开始使用ChatGPT Plus的全部功能和服务了！
 
-注意：你也可以通过银河录像局官网顶部的“车票”导航栏查看车票信息。
+此外，银河录像局的“GPT Plus镜像版”无需魔法上网，国内网络即可直接使用。如果你想在手机或平板上使用，只需在移动设备的浏览器中打开银河录像局官网，使用账号密码登录后，点击导航栏中的“车票”按钮即可快速进入ChatGPT Plus使用界面，操作非常简单。
 
-![国内合租共享ChatGPT Plus账号操作步骤七：付款成功后，点击“查看车票信息”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-7.png)
-
-### 第八步：点击“查看车队”按钮。
-
-![国内合租共享ChatGPT Plus账号操作步骤八：点击“查看车队”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-8.png)
-
-### 第九步：选择一个车队并点击“发起对话”。
-
-![国内合租共享ChatGPT Plus账号操作步骤九：选择一个车队并点击“发起对话”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E6%8B%BC%E8%BD%A6%E6%95%99%E7%A8%8B-9.png)
-
-### 第十步：开始正式使用ChatGPT Plus。
-
-![国内合租共享ChatGPT Plus账号操作步骤十：开始正式使用ChatGPT Plus](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-10.png)
-
-OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步骤！银河录像局的“银河AI”服务无需魔法上网，国内网络即可直接使用。如果想要在手机或平板上使用，只需在移动设备上通过浏览器打开银河录像局官网并使用账号密码登录，然后点击导航栏中的“车票”按钮，即可快速进入ChatGPT Plus的使用界面，非常简单。
-
-此外，值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出30万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>15万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.7万份，<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>1.4万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.3万份，充分体现了其平台的受欢迎程度和用户信赖度。
+值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出33万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>16万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.9万份，<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>1.5万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.7万份，充分体现了其平台的受欢迎程度和用户信赖度。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
