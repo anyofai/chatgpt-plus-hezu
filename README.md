@@ -1,8 +1,8 @@
-# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立帐号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！
+# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！
 
-<p align="center">最近更新于：2025年10月21日</p>
+<p align="center">最近更新于：2025年11月14日</p>
 
-![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立帐号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 由于2025年7月12日WildCard野卡被迫停止服务，对于日常工作中经常需要使用ChatGPT Plus的用户来说，这无疑是一个不小的打击。截至目前，还没有出现可以与WildCard野卡相媲美的虚拟信用卡。因此，如今如果大家想要继续使用ChatGPT Plus会员，就只剩下“ChatGPT Plus合租”和“ChatGPT Plus代充值”这两条路可走了。
 
@@ -54,15 +54,15 @@
 
 * 银河录像局官网地址：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![国内拼车合租ChatGPT Plus帐号操作步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-1.png)
+![国内拼车合租ChatGPT Plus账号操作步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-1.png)
 
 ### 第二步：使用手机号码登录或通过微信扫码登录。
 
-![国内拼车合租ChatGPT Plus帐号操作步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-2.png)
+![国内拼车合租ChatGPT Plus账号操作步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-2.png)
 
 ### 第三步：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”。
 
-![国内拼车合租ChatGPT Plus帐号操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-1.png)
+![国内拼车合租ChatGPT Plus账号操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-1.png)
 
 ### 第四步：选择合适的套餐，并点击“支付宝支付”按钮。
 
@@ -70,33 +70,33 @@
 
 注意：“银河AI”不仅支持GPT-5和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型！
 
-![国内拼车合租ChatGPT Plus帐号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
+![国内拼车合租ChatGPT Plus账号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
 
 ### 第五步：输入优惠码“anyofai”，然后点击“确认”。
 
-![国内拼车合租ChatGPT Plus帐号操作步骤五：输入优惠码“anyofai”，然后点击“确认”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-5.png)
+![国内拼车合租ChatGPT Plus账号操作步骤五：输入优惠码“anyofai”，然后点击“确认”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-5.png)
 
 ### 第六步：核对套餐信息，确认无误后点击“支付宝支付”。
 
-![国内合租共享ChatGPT Plus帐号操作步骤六：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-6.png)
+![国内合租共享ChatGPT Plus账号操作步骤六：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-4%E5%B8%90%E5%8F%B7%E5%85%B1%E4%BA%AB%E6%95%99%E7%A8%8B-6.png)
 
 ### 第七步：付款成功后，点击“查看车票信息”。
 
 注意：你也可以通过银河录像局官网顶部的“车票”导航栏查看车票信息。
 
-![国内合租共享ChatGPT Plus帐号操作步骤七：付款成功后，点击“查看车票信息”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-7.png)
+![国内合租共享ChatGPT Plus账号操作步骤七：付款成功后，点击“查看车票信息”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-7.png)
 
 ### 第八步：点击“查看车队”按钮。
 
-![国内合租共享ChatGPT Plus帐号操作步骤八：点击“查看车队”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-8.png)
+![国内合租共享ChatGPT Plus账号操作步骤八：点击“查看车队”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B-8.png)
 
 ### 第九步：选择一个车队并点击“发起对话”。
 
-![国内合租共享ChatGPT Plus帐号操作步骤九：选择一个车队并点击“发起对话”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E6%8B%BC%E8%BD%A6%E6%95%99%E7%A8%8B-9.png)
+![国内合租共享ChatGPT Plus账号操作步骤九：选择一个车队并点击“发起对话”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E6%8B%BC%E8%BD%A6%E6%95%99%E7%A8%8B-9.png)
 
 ### 第十步：开始正式使用ChatGPT Plus。
 
-![国内合租共享ChatGPT Plus帐号操作步骤十：开始正式使用ChatGPT Plus](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-10.png)
+![国内合租共享ChatGPT Plus账号操作步骤十：开始正式使用ChatGPT Plus](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B-10.png)
 
 OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步骤！银河录像局的“银河AI”服务无需魔法上网，国内网络即可直接使用。如果想要在手机或平板上使用，只需在移动设备上通过浏览器打开银河录像局官网并使用账号密码登录，然后点击导航栏中的“车票”按钮，即可快速进入ChatGPT Plus的使用界面，非常简单。
 
@@ -164,9 +164,9 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 需要注意的是，如果你没有美区Apple ID，可以自行注册一个，也可以通过“银河录像局”直接购买现成的美区Apple ID账户。具体购买流程为：打开“银河录像局”官网，点击首页的“增值服务”，选择“苹果商店”，并按照系统提示操作即可。购买美区Apple ID账户时，使用优惠码“ANYOFAI”还可享受九折优惠！
 
-<p align="center"><a href="https://nf.video/BTgSc">立即购买美区Apple ID帐号</a></p>
+<p align="center"><a href="https://nf.video/BTgSc">立即购买美区Apple ID账号</a></p>
 
-## 合租ChatGPT Plus帐号的优势有哪些？
+## 合租ChatGPT Plus账号的优势有哪些？
 
 现如今，合租ChatGPT Plus账号已经成为许多用户体验高级AI服务的首选方式。相比于自己单独注册和订阅，合租不仅更加省心省钱，还能避免很多常见的技术和支付难题。具体来看，合租ChatGPT Plus账号主要有以下几个优势：
 
@@ -196,15 +196,15 @@ OK，以上就是通过银河录像局拼车合租ChatGPT Plus账号的全部步
 
 总之，遇到ChatGPT Plus合租账号无法使用的情况时，建议先自行排查网络和账号信息。如仍有问题，及时寻求平台客服的帮助，通常都能顺利解决。
 
-## ChatGPT Plus合租帐号是否有使用限制？
+## ChatGPT Plus合租账号是否有使用限制？
 
-是的，几乎所有ChatGPT Plus合租帐号都会对使用次数进行限制。以银河录像厅的“银河AI”合租服务为例，虽然该服务支持GPT-4o生图功能、GPT-4.1/o3/o1系列模型、满血版DeepSeek-R1、马斯克的Grok-4和谷歌Gemini-25 Pro等顶级AI模型，但每个套餐在使用次数上都设有明确的限制。
+是的，几乎所有ChatGPT Plus合租账号都会对使用次数进行限制。以银河录像厅的“银河AI”合租服务为例，虽然该服务支持GPT-4o生图功能、GPT-4.1/o3/o1系列模型、满血版DeepSeek-R1、马斯克的Grok-4和谷歌Gemini-25 Pro等顶级AI模型，但每个套餐在使用次数上都设有明确的限制。
 
 比如，银河基础月付套餐规定，用户每6小时最多可以发起30次对话；银河标准月付套餐则将额度提升到每6小时60次；而银河专业月付套餐则允许用户每3小时最多发起60次对话。也就是说，用户选择的套餐不同，可用的对话次数和刷新频率都会有所变化。
 
-## ChatGPT Plus合租帐号会自动续费吗？
+## ChatGPT Plus合租账号会自动续费吗？
 
-ChatGPT Plus合租帐号是否会自动续费，主要取决于你选择的合租平台和套餐类型。以银河录像局为例，无论是月套餐还是季套餐，套餐到期后平台都不会自动续费。
+ChatGPT Plus合租账号是否会自动续费，主要取决于你选择的合租平台和套餐类型。以银河录像局为例，无论是月套餐还是季套餐，套餐到期后平台都不会自动续费。
 
 比如，购买季套餐后，可以连续使用三个月，期满后需要手动续费才能继续使用，平台不会自动扣费。月套餐也是如此，使用期限为一个月，到期后同样需要用户手动续订。
 
@@ -240,13 +240,13 @@ ChatGPT Plus合租帐号是否会自动续费，主要取决于你选择的合�
 
 ## ChatGPT Plus会员共享合租相关的其他文章：
 
-* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买/合租/代充ChatGPT Plus会员？国内如何使用GPT-5-Codex？
-* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？如何使用Claude Code？
-* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立帐号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何购买Poe原生独立账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
-* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何代充SuperGrok会员？
+* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
+* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
+* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
+* <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需15元！
