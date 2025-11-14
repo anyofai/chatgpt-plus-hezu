@@ -132,7 +132,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 ![环球巴士提供“ChatGPT镜像版”、“ChatGPT Plus拼车（原生版）”、“ChatGPT Plus代充值”等服务。](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-11.png)
 
-同时，环球巴士也提供<a href="https://github.com/anyofai/x-twitter">SuperGrok账号购买</a>、<a href="https://github.com/anyofai/x-twitter">SuperGrok代充</a>、Claude Pro代充值、Poe代充值、Midjourney镜像版等服务。
+同时，环球巴士也提供<a href="https://github.com/anyofai/x-twitter">SuperGrok账号购买</a>、<a href="https://github.com/anyofai/x-twitter">SuperGrok代充</a>、Claude Pro代充、Poe代充、Midjourney镜像版等服务。
 
 ![环球巴士也提供“Claude Pro代充值”、“Midjourney镜像版”等服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-12.png)
 
