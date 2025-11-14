@@ -130,11 +130,11 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 环球巴士还提供“ChatGPT镜像版”、“ChatGPT Plus拼车（原生版）”、“ChatGPT Plus代充值”等服务。
 
-![环球巴士提供“ChatGPT镜像版”、“ChatGPT Plus拼车（原生版）”、“ChatGPT Plus代充值”等服务。](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-10.png)
+![环球巴士提供“ChatGPT镜像版”、“ChatGPT Plus拼车（原生版）”、“ChatGPT Plus代充值”等服务。](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-11.png)
 
-同时，环球巴士也提供“Claude Pro代充值”、“Midjourney镜像版”等服务。
+同时，环球巴士也提供<a href="https://github.com/anyofai/x-twitter">SuperGrok账号购买</a>、<a href="https://github.com/anyofai/x-twitter">SuperGrok代充</a>、Claude Pro代充值、Poe代充值、Midjourney镜像版等服务。
 
-![环球巴士也提供“Claude Pro代充值”、“Midjourney镜像版”等服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-11.png)
+![环球巴士也提供“Claude Pro代充值”、“Midjourney镜像版”等服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-12.png)
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
