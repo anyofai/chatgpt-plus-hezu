@@ -22,7 +22,7 @@
 
 最后，银河录像局还提供美区Apple ID、Google账号、<a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>、<a href="https://github.com/anyofai/anyofai.github.io">Codex拼车</a>等服务。
 
-![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-2-1.png)
+![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
 对于ChatGPT的轻度用户来说，银河录像局是一个非常友好的平台。他们提供的“银河AI”服务，**不仅支持GPT-5.1和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型**，让你能够同时体验多种前沿AI技术的强大功能！
 
