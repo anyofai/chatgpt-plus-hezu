@@ -6,7 +6,7 @@
 
 由于2025年7月12日WildCard野卡被迫停止服务，对于日常工作中经常需要使用ChatGPT Plus的用户来说，这无疑是一个不小的打击。截至目前，还没有出现可以与WildCard野卡相媲美的虚拟信用卡。因此，如今如果大家想要继续使用ChatGPT Plus会员，就只剩下“ChatGPT Plus合租”和“ChatGPT Plus代充值”这两条路可走了。
 
-可能很多同学不知道自己该选择“ChatGPT Plus合租”还是“ChatGPT Plus代充值”。这么说吧，如果你是ChatGPT的轻度用户，那么就建议选择ChatGPT Plus合租，因为它**无需科学上网、无需注册帐号、价格便宜，也无封号风险**，但在使用次数上会有一定限制。本文下方会为大家推荐三个**合规、稳定、服务体验良好**的ChatGPT Plus合租平台，以及国内拼车ChatGPT Plus的详细操作步骤。
+可能很多同学不知道自己该选择“ChatGPT Plus合租”还是“ChatGPT Plus代充值”。这么说吧，如果你是ChatGPT的轻度用户，那么就建议选择ChatGPT Plus合租，因为它**无需科学上网、无需注册账号、价格便宜，也无封号风险**，但在使用次数上会有一定限制。本文下方会为大家推荐三个**合规、稳定、服务体验良好**的ChatGPT Plus合租平台，以及国内拼车ChatGPT Plus的详细操作步骤。
 
 * 如果你是ChatGPT Plus的重度用户，可以直接购买一个ChatGPT Plus原生独立账号，或者为你现有的ChatGPT账号代充值。更多详情可参考：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>。
 
