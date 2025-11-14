@@ -1,8 +1,8 @@
-# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！
+# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.1、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！
 
 <p align="center">最近更新于：2025年11月14日</p>
 
-![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.1、GPT-4o、Grok-4和Gemini-2.5 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 由于2025年7月12日WildCard野卡被迫停止服务，对于日常工作中经常需要使用ChatGPT Plus的用户来说，这无疑是一个不小的打击。截至目前，还没有出现可以与WildCard野卡相媲美的虚拟信用卡。因此，如今如果大家想要继续使用ChatGPT Plus会员，就只剩下“ChatGPT Plus合租”和“ChatGPT Plus代充值”这两条路可走了。
 
@@ -24,7 +24,7 @@
 
 ![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-2-1.png)
 
-对于ChatGPT的轻度用户来说，银河录像局是一个非常友好的平台。他们提供的“银河AI”服务，**不仅支持GPT-5和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型**，让你能够同时体验多种前沿AI技术的强大功能！
+对于ChatGPT的轻度用户来说，银河录像局是一个非常友好的平台。他们提供的“银河AI”服务，**不仅支持GPT-5.1和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型**，让你能够同时体验多种前沿AI技术的强大功能！
 
 注意：银河录像局提供的“银河AI”服务用起来非常省心，不仅**无需科学上网、无需注册账号、没有封号风险**，而且价格也非常实惠，**每月仅需29元**（使用优惠码“**ANYOFAI**”可享九折优惠），非常适合ChatGPT轻度用户使用。
 
@@ -68,7 +68,7 @@
 
 银河录像局提供的“银河AI”服务分为三个档位：基础版每月29元，每6小时可对话30次；标准版每月45元，每6小时可对话60次；专业版每月99元，每3小时可对话60次。
 
-注意：“银河AI”不仅支持GPT-5和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型！
+注意：“银河AI”不仅支持GPT-5.1和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型！
 
 ![国内拼车合租ChatGPT Plus账号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/chatgpt-plus-hezu-2.png)
 
