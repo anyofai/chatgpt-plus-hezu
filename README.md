@@ -150,7 +150,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 ![ChatGPT Plus合租：通过账号星球平台购买美区Apple ID帐号和苹果礼品卡](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-13.png)
 
-重要提示：关于**如何使用苹果礼品卡订阅ChatGPT Plus会员**的详细步骤，可参考《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》一文中的“方法四”章节，里面有更加完整的图文说明。
+**重要提示**：关于如何使用苹果礼品卡订阅ChatGPT Plus会员的详细步骤，请参考《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》一文中的“方法四”章节，该章节有更加完整的图文说明。
 
 ## 合租ChatGPT Plus账号的优势有哪些？
 
