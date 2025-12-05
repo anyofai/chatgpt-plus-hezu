@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.1、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
 
-<p align="center">最近更新于：2025年12月4日</p>
+<p align="center">最近更新于：2025年12月5日</p>
 
 ![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.1、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
@@ -144,11 +144,11 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 自WildCard野卡停止服务后，目前市场上还没有出现既安全又稳定的虚拟信用卡产品。因此，除了合租ChatGPT Plus会员外，用户还可以尝试通过苹果礼品卡（Apple Gift Card）为ChatGPT Plus充值。
 
-具体操作流程如下：首先，你需要拥有一个美区Apple ID账号；其次，需要购买一张苹果礼品卡，并将礼品卡余额充值至该Apple ID账户；最后，使用充值后的余额订阅ChatGPT Plus会员。这种方式的优点是无需绑定信用卡，可以直接利用苹果自带的支付体系，整体安全性较高，尤其适合使用苹果设备的用户。不过，该流程相对繁琐，对不熟悉跨区操作的用户来说可能不太友好。
+具体操作流程如下：首先，你需要拥有一个美区Apple ID账号；其次，需要获取一张苹果礼品卡，并将礼品卡余额充值至该Apple ID账户；最后，使用充值后的余额订阅ChatGPT Plus会员。这种方式的优点是无需绑定信用卡，可以直接利用苹果自带的支付体系，整体安全性较高，尤其适合使用苹果设备的用户。不过，该流程相对繁琐，对不熟悉跨区操作的用户来说可能不太友好。
 
-如果你还没有美区Apple ID账号，可以选择自行注册一个，也可以通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”等专业平台直接购买美区Apple ID账号和一张20美元的苹果礼品卡。随后，只需使用该美区Apple ID账号登录App Store，将礼品卡余额充值到账户后，即可用于开通ChatGPT Plus会员。
+如果你还没有美区Apple ID账号，可以选择自行注册一个，也可以通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”等专业平台直接获取美区Apple ID账号和一张20美元的苹果礼品卡。随后，只需使用该美区Apple ID账号登录App Store，将礼品卡余额充值到账户后，即可用于开通ChatGPT Plus会员。
 
-![ChatGPT Plus合租：通过账号星球平台购买美区Apple ID帐号和苹果礼品卡](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-13.png)
+![ChatGPT Plus合租：通过账号星球平台获取美区Apple ID帐号和苹果礼品卡](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-13.png)
 
 **注意**：关于如何使用苹果礼品卡订阅ChatGPT Plus的详细步骤，请参考《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》一文中的“方法四”章节，该章节有更加完整的图文说明。
 
