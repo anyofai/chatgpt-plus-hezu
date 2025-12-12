@@ -1,8 +1,8 @@
-# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.1、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
+# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
 
-<p align="center">最近更新于：2025年12月5日</p>
+<p align="center">最近更新于：2025年12月12日</p>
 
-![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.1、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 由于2025年7月12日WildCard野卡被迫停止服务，对于日常工作中经常需要使用ChatGPT Plus的用户来说，这无疑是一个不小的打击。截至目前，还没有出现可以与WildCard野卡相媲美的虚拟信用卡。因此，如今如果大家想要继续使用ChatGPT Plus会员，就只剩下“ChatGPT Plus合租”和“ChatGPT Plus代充值”这两条路可走了。
 
@@ -24,7 +24,7 @@
 
 ![银河录像局提供各种流媒体和AI工具合租服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
-对于ChatGPT的轻度用户来说，银河录像局是一个非常友好的平台。他们提供的“银河AI”服务，**不仅支持GPT-5.1和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4.1，以及谷歌Gemini-3 Pro等顶尖大模型**，让你能够同时体验多种前沿AI技术的强大功能！
+对于ChatGPT的轻度用户来说，银河录像局是一个非常友好的平台。他们提供的“银河AI”服务，**不仅支持GPT-5.2和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4.1，以及谷歌Gemini-3 Pro等顶尖大模型**，让你能够同时体验多种前沿AI技术的强大功能！
 
 注意：银河录像局提供的“银河AI”服务用起来非常省心，不仅**无需科学上网、无需注册账号、没有封号风险**，而且价格也非常实惠，**每月仅需29元**（使用优惠码“**ANYOFAI**”可享九折优惠），非常适合ChatGPT轻度用户使用。
 
@@ -68,7 +68,7 @@
 
 银河录像局提供的“银河AI”服务分为三个档位：基础版每月29元，每6小时可对话30次；标准版每月45元，每6小时可对话60次；专业版每月99元，每3小时可对话60次。
 
-注意：“银河AI”不仅支持GPT-5.1和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4.1，以及谷歌Gemini-3 Pro等顶尖大模型！
+注意：“银河AI”不仅支持GPT-5.2和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4.1，以及谷歌Gemini-3 Pro等顶尖大模型！
 
 ![国内拼车合租ChatGPT Plus账号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
 
@@ -184,7 +184,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 ## ChatGPT Plus合租账号是否有使用限制？
 
-是的，几乎所有ChatGPT Plus合租账号都会对使用次数进行限制。以银河录像厅的“GPT Plus镜像版”服务为例，虽然该服务支持GPT-5.1、满血版DeepSeek-R1、马斯克的Grok-4.1和谷歌Gemini-3 Pro等顶级AI模型，但每个套餐在使用次数上都设有明确的限制。
+是的，几乎所有ChatGPT Plus合租账号都会对使用次数进行限制。以银河录像厅的“GPT Plus镜像版”服务为例，虽然该服务支持GPT-5.2、满血版DeepSeek-R1、马斯克的Grok-4.1和谷歌Gemini-3 Pro等顶级AI模型，但每个套餐在使用次数上都设有明确的限制。
 
 比如，银河基础月付套餐规定，用户每6小时最多可以发起30次对话；银河标准月付套餐则将额度提升到每6小时60次；而银河专业月付套餐则允许用户每3小时最多发起60次对话。也就是说，用户选择的套餐不同，可用的对话次数和刷新频率都会有所变化。
 
@@ -229,7 +229,7 @@ ChatGPT Plus合租账号是否会自动续费，主要取决于你选择的合�
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 * <a href="https://github.com/anyofai/gemini-pro">Gemini Pro购买</a>：如何购买Gemini Pro账号？如何合租Gemini Pro会员？如何为Gemini Pro代充值？
 
