@@ -117,7 +117,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 当然，星际放映厅还提供Midjourney账号购买/代充值、<a href="https://github.com/anyofai/x-twitter">SuperGrok合租/账号购买/代充值</a>、<a href="https://github.com/anyofai/gemini-pro">Gemini Pro账号购买/代充值</a>、<a href="https://github.com/anyofai/poe">Poe账号购买</a>等服务，以及Netflix、Disney+、YouTube、Spotify等流媒体合租服务。
 
-重要提示：星际放映厅的所有服务均提供全程质保（即包售后），无论遇到什么问题均可通过在线客服协助解决。此外，星际放映厅提供的所有服务均支持开正规发票，对于企业采购或有开票需求的用户来说非常友好。
+重要提示：星际放映厅的所有服务均提供**全程质保（即包售后）**，无论遇到什么问题均可通过在线客服协助解决。此外，星际放映厅提供的所有服务均**支持开正规发票**，对于企业采购或有开票需求的用户来说非常友好。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
