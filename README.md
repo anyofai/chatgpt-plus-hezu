@@ -132,9 +132,9 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 * 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 * 环球巴士优惠码：ANYOFAI（可享九折优惠）
 * 环球巴士支付方式：支付宝
-* ChatGPT Plus拼车价格：28.88元/月
+* ChatGPT Plus拼车价格：69.88元/月
 
-环球巴士还提供“ChatGPT镜像版”、“ChatGPT Plus拼车（原生版）”、“ChatGPT Plus代充值”等服务。
+环球巴士不仅提供ChatGPT Plus拼车合租服务，而且还提供“ChatGPT Plus镜像版”、“<a href="https://github.com/anyofai/chatgpt">ChatGPT账号购买</a>”、“ChatGPT Plus代充值”等服务。
 
 ![环球巴士提供“ChatGPT镜像版”、“ChatGPT Plus拼车（原生版）”、“ChatGPT Plus代充值”等服务。](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-11.png)
 
