@@ -88,7 +88,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 此外，银河录像局的“GPT Plus镜像版”无需魔法上网，国内网络即可直接使用。如果你想在手机或平板上使用，只需在移动设备的浏览器中打开银河录像局官网，使用账号密码登录后，点击导航栏中的“车票”按钮即可快速进入ChatGPT Plus使用界面，操作非常简单。
 
-值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出33万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>16万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>5.9万份，<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>1.5万份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.7万份，充分体现了其平台的受欢迎程度和用户信赖度。
+值得一提的是，银河录像局提供的ChatGPT Plus合租服务已售出34万份，<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>17万份，<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>6万份，<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>2千多份，<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>1.8万份，充分体现了其平台的受欢迎程度和用户信赖度。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
