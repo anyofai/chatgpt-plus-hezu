@@ -113,8 +113,6 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 ![星际放映厅也提供“ChatGPT Plus代充值”服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E5%90%88%E7%A7%9F-8-1.png)
 
-![为什么选星际放映厅的理由](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F-9.png)
-
 当然，星际放映厅还提供Midjourney账号购买/代充值、<a href="https://github.com/anyofai/x-twitter">SuperGrok合租/账号购买/代充值</a>、<a href="https://github.com/anyofai/gemini-pro">Gemini Pro账号购买/代充值</a>、<a href="https://github.com/anyofai/poe">Poe账号购买</a>等服务，以及Netflix、Disney+、YouTube、Spotify等流媒体合租服务。
 
 重要提示：星际放映厅的所有服务均提供**全程质保（即包售后）**，无论遇到什么问题均可通过在线客服协助解决。此外，星际放映厅提供的所有服务均**支持开正规发票**，对于企业采购或有开票需求的用户来说非常友好。
