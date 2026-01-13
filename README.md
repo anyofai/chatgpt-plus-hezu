@@ -10,7 +10,7 @@
 
 <blockquote>
 
-注意：如果你在工作或日常生活中高度依赖ChatGPT Plus的话，那么我们建议你直接购买ChatGPT Plus原生独立账号，或者为你自己现有的ChatGPT账号代充值，这样使用起来不仅更加稳定，而且也不会有任何的限制。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值(148元/月)</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买(147元/月)</a>。
+注意：如果你在工作或日常生活中高度依赖ChatGPT Plus的话，那么我们建议你直接购买ChatGPT Plus原生独立账号，或者为你自己现有的ChatGPT账号代充值，这样使用起来不仅更加稳定，而且也不会有任何的限制。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>(148元/月)、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>(147元/月)。
 
 </blockquote>
 
