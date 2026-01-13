@@ -101,7 +101,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 * 星际放映厅优惠码：ANYOFAI（可享九折优惠）
 * 星际放映厅支付方式：支付宝
-* ChatGPT Plus拼车价格：50元/月
+* ChatGPT Plus拼车价格：52元/月
 
 星际放映厅不仅提供**ChatGPT Plus共享账号**，还提供**ChatGPT Plus独享账号**，大家可以根据自己的需求自由选择。
 
