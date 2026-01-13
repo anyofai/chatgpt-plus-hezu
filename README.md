@@ -152,7 +152,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 具体操作流程如下：首先，你需要拥有一个美区Apple ID账号；其次，需要获取一张苹果礼品卡，并将礼品卡余额充值至该Apple ID账户；最后，使用充值后的余额订阅ChatGPT Plus会员。这种方式的优点是无需绑定信用卡，可以直接利用苹果自带的支付体系，整体安全性较高，尤其适合使用苹果设备的用户。不过，该流程相对繁琐，对不熟悉跨区操作的用户来说可能不太友好。
 
-如果你还没有美区Apple ID账号，可以选择自行注册一个，也可以通过“<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>”等专业平台直接获取美区Apple ID账号和一张20美元的苹果礼品卡。随后，只需使用该美区Apple ID账号登录App Store，将礼品卡余额充值到账户后，即可用于开通ChatGPT Plus会员。
+如果你还没有美区Apple ID账号，可以选择自行注册一个，也可以通过“<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-apple-id">账号星球</a>”等专业平台直接获取美区Apple ID账号和一张20美元的苹果礼品卡。随后，只需使用该美区Apple ID账号登录App Store，将礼品卡余额充值到账户后，即可用于开通ChatGPT Plus会员。
 
 ![ChatGPT Plus合租：通过账号星球平台获取美区Apple ID帐号和苹果礼品卡](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-13.png)
 
