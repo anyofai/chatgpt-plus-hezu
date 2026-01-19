@@ -1,8 +1,8 @@
-# 最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
+# 2026年最新ChatGPT合租攻略：国内最靠谱的ChatGPT拼车平台推荐！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
 
-<p align="center">最近更新于：2026年1月13日</p>
+<p align="center">最近更新于：2026年1月19日</p>
 
-![最新ChatGPT Plus合租攻略：国内最靠谱的ChatGPT Plus拼车平台推荐(提供原生ChatGPT Plus独立账号)！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
+![2026年最新ChatGPT合租攻略：国内最靠谱的ChatGPT拼车平台推荐！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F%E6%95%99%E7%A8%8B.png)
 
 由于2025年7月12日WildCard野卡被迫停止服务，对于日常工作中经常需要使用ChatGPT Plus的用户来说，这无疑是一个不小的打击。截至目前，还没有出现可以与WildCard野卡相媲美的虚拟信用卡。因此，如今如果大家想要继续使用ChatGPT Plus会员，就只剩下“ChatGPT Plus合租”和“ChatGPT Plus代充值”这两条路可走了。
 
