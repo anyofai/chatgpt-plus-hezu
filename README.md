@@ -1,4 +1,4 @@
-<img width="217" height="24" alt="image" src="https://github.com/user-attachments/assets/72f531cb-7683-428f-b979-728199ff57d2" /># 2026年最新ChatGPT合租攻略：国内最靠谱的ChatGPT拼车平台推荐！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
+# 2026年最新ChatGPT合租攻略：国内最靠谱的ChatGPT拼车平台推荐！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
 
 <p align="center">最近更新于：2026年1月19日</p>
 
