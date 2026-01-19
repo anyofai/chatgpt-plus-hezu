@@ -1,4 +1,4 @@
-# 2026年最新ChatGPT合租攻略：国内最靠谱的ChatGPT拼车平台推荐！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
+<img width="217" height="24" alt="image" src="https://github.com/user-attachments/assets/72f531cb-7683-428f-b979-728199ff57d2" /># 2026年最新ChatGPT合租攻略：国内最靠谱的ChatGPT拼车平台推荐！支持使用GPT-5.2、GPT-4o、Grok-4.1和Gemini-3 Pro等AI大模型，每月仅需27元！
 
 <p align="center">最近更新于：2026年1月19日</p>
 
@@ -58,15 +58,15 @@
 
 * 银河录像局官网地址：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![国内拼车合租ChatGPT Plus账号操作步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
+![ChatGPT合租步骤一：访问银河录像局官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
 ### 第二步：使用手机号码登录或通过微信扫码登录。
 
-![国内拼车合租ChatGPT Plus账号操作步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
+![ChatGPT合租步骤二：使用手机号码登录或通过微信扫码登录](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
 
 ### 第三步：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”。
 
-![国内拼车合租ChatGPT Plus账号操作步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7.png)
+![ChatGPT合租步骤三：在银河录像局首页，点击“AI服务”，然后选择“GPT Plus”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7.png)
 
 ### 第四步：选择合适的套餐，并点击“支付宝支付”按钮。
 
@@ -74,15 +74,15 @@
 
 注意：“银河AI”不仅支持GPT-5.2和GPT-4o等系列模型，还支持满血版DeepSeek-R1、马斯克的Grok-4.1，以及谷歌Gemini-3 Pro等顶尖大模型！
 
-![国内拼车合租ChatGPT Plus账号操作步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
+![ChatGPT合租步骤四：选择合适的套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
 
 ### 第五步：核对套餐信息，确认无误后点击“支付宝支付”。
 
-![国内合租共享ChatGPT Plus账号操作步骤五：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-9.png)
+![ChatGPT合租步骤五：核对套餐信息，确认无误后点击“支付宝支付”](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-9.png)
 
 ### 第六步：使用支付宝扫码即可完成付款。
 
-![国内合租共享ChatGPT Plus账号操作步骤六：使用支付宝扫码即可完成付款](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-10.png)
+![ChatGPT合租步骤六：使用支付宝扫码即可完成付款](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-10.png)
 
 OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏中的“车票”按钮即可看到ChatGPT Plus使用入口，然后就可以正式开始使用ChatGPT Plus的全部功能和服务了！
 
@@ -152,7 +152,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 如果你还没有美区Apple ID账号，可以选择自行注册一个，也可以通过“<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-apple-id">账号星球</a>”等专业平台直接获取美区Apple ID账号和一张20美元的苹果礼品卡。随后，只需使用该美区Apple ID账号登录App Store，将礼品卡余额充值到账户后，即可用于开通ChatGPT Plus会员。
 
-![ChatGPT Plus合租：通过账号星球平台获取美区Apple ID帐号和苹果礼品卡](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-13.png)
+![ChatGPT拼车：通过账号星球平台获取美区Apple ID帐号和苹果礼品卡](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/ChatGPT-Plus-%E5%90%88%E7%A7%9F-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-13.png)
 
 **注意**：关于如何使用苹果礼品卡订阅ChatGPT Plus的详细步骤，请参考《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>》一文中的“方法四”章节，该章节有更加完整的图文说明。
 
