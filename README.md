@@ -111,7 +111,7 @@ OK，当你使用支付宝完成付款后，点击银河录像局官网导航栏
 
 值得注意的是，如果你想为现有的ChatGPT账号充值，也可以选择星际放映厅提供的“**ChatGPT Plus代充值**”服务。
 
-![星际放映厅也提供“ChatGPT Plus代充值”服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E5%90%88%E7%A7%9F-8-1.png)
+![星际放映厅也提供“ChatGPT Plus代充值”服务](https://raw.githubusercontent.com/anyofai/chatgpt-plus-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E5%90%88%E7%A7%9F-8-2.png)
 
 当然，星际放映厅还提供Midjourney账号购买/代充值、<a href="https://github.com/anyofai/x-twitter">SuperGrok合租/账号购买/代充值</a>、<a href="https://github.com/anyofai/gemini-pro">Gemini Pro账号购买/代充值</a>、<a href="https://github.com/anyofai/poe">Poe账号购买</a>等服务，以及Netflix、Disney+、YouTube、Spotify等流媒体合租服务。
 
